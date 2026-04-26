@@ -5,8 +5,8 @@ export function isCategoryActive(category) {
   return document.querySelector(`input[value="${category}"]`)?.checked;
 }
 
-function applyFilters(map, name) {
-  Object.entries(markerLayers[name]).forEach(([cat, layer]) => {
+function applyFilters(map) {
+  Object.entries(markerLayers[GameState.currentMap]).forEach(([cat, layer]) => {
     if (isCategoryActive(cat)) {
       if (!map.hasLayer(layer)) {
         map.addLayer(layer);
@@ -20,10 +20,12 @@ function applyFilters(map, name) {
 }
 
 export function initFilters(map) {
-  document.querySelectorAll('#sidebar input').forEach(cb => {
-    cb.addEventListener('change', () => {
+  const sidebar = document.querySelector('#sidebar');
+
+  sidebar.addEventListener('change', (e) => {
+    if (e.target.matches('input')) {
       applyFilters(map, GameState.currentMap);
-    });
+    }
   });
 }
 
@@ -73,4 +75,6 @@ export function buildFilters(map) {
 
     container.appendChild(categoryDiv);
   });
+
+  initFilters(map);
 }
