@@ -1,4 +1,4 @@
-import { GameState } from "./state.js";
+import { GameState, saveFilters, loadFilters } from "./state.js";
 import { markerLayers, uiCategoryOrder, uiLayers, uiCategories } from "./data.js";
 
 export function isCategoryActive(category) {
@@ -25,6 +25,7 @@ export function initFilters(map) {
   sidebar.addEventListener('change', (e) => {
     if (e.target.matches('input')) {
       applyFilters(map, GameState.currentMap);
+      saveFilters(GameState.currentMap);
     }
   });
 }
@@ -57,6 +58,8 @@ function createSection(headerLabel) {
 
   headerDiv.className = "section-header-container";
   sectionHeader.className = "section-header-label";
+  selectAllBtn.className = "pointer";
+  removeAllBtn.className = "pointer";
 
   headerDiv.appendChild(sectionHeader);
   headerDiv.appendChild(selectAllBtn);
@@ -71,6 +74,7 @@ export function buildFilters(map) {
 
   const container = document.getElementById("filters");
   container.innerHTML = "";
+
 
   const uiDatas = Object.keys(markerLayers[map]).map(cat => ({ cat: cat, data: uiLayers[cat] || undefined }));
   const buckets = [];
@@ -89,6 +93,8 @@ export function buildFilters(map) {
     items: buckets[category] || [],
   }));
 
+  const saved = loadFilters(GameState.currentMap);
+
   sortedBuckets.forEach(bucket => {
     if (!bucket.items || bucket.items.length === 0) {
       return;
@@ -97,12 +103,14 @@ export function buildFilters(map) {
     const sectionDiv = createSection(bucket.category);
 
     bucket.items.forEach(item => {
+      const checked = saved[item.cat] ?? true;
       const label = document.createElement("label");
 
       label.innerHTML = `
-        <input type="checkbox" value="${item.cat}" checked>
+        <input type="checkbox" value="${item.cat}" ${checked ? "checked" : ""}>
         ${item.data?.name || item.cat}
       `;
+      label.className = "pointer";
 
       sectionDiv.appendChild(label);
     })

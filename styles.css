@@ -52,6 +52,10 @@ label {
   -webkit-text-stroke: 1px black;
 }
 
+.pointer {
+  cursor: pointer;
+}
+
 .section-header-container {
   display: flex;
   align-items: center;
