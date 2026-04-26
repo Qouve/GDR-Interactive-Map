@@ -28,6 +28,7 @@ export const markerLayers = {
     spawnpoint: L.layerGroup(),
     dungeon: L.layerGroup(),
     obelisk: L.layerGroup(),
+    valleysigil: L.layerGroup(),
   },
   helheim: {
     wood: L.layerGroup(),
@@ -48,6 +49,8 @@ export const markerLayers = {
     spawnpoint: L.layerGroup(),
     dungeon: L.layerGroup(),
     obelisk: L.layerGroup(),
+    valleysigil: L.layerGroup(),
+    torkel: L.layerGroup(),
   }
 };
 

@@ -13,5 +13,3 @@ map.on('baselayerchange', e => {
 });
 
 initFilters(map);
-
-updateLabelScale();
