@@ -11,4 +11,7 @@ L.control.layers(layerMaps, null, { collapsed: false }).addTo(map);
 map.on('baselayerchange', e => {
   loadMap(e.name.toLowerCase());
 });
+
 initFilters(map);
+
+updateLabelScale();

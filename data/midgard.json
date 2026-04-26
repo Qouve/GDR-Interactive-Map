@@ -1,4 +1,22 @@
 [
-    { "name": "wood", "x": 1000, "y": 1000, "category": "wood" },
-    { "name": "wood", "x": 800, "y": 800, "category": "wood" }
-  ]
+  { "name": "wood", "x": 1000, "y": 1000, "category": "wood" },
+  { "name": "wood", "x": 800, "y": 800, "category": "wood" },
+  { "name": "wood", "x": 556, "y": 1296, "category": "wood" },
+  { "name": "stone", "x": 10, "y": 0, "category": "stone"},
+  { "name": "bone", "x": 20, "y": 0, "category": "bone"},
+  { "name": "bifrost", "x": 30, "y": 0, "category": "bifrost"},
+  { "name": "moss", "x": 40, "y": 0, "category": "moss"},
+  { "name": "mushroom", "x": 50, "y": 0, "category": "mushroom"},
+  { "name": "iron_ore", "x": 60, "y": 0, "category": "iron_ore"},
+  { "name": "leather", "x": 70, "y": 0, "category": "leather"},
+  { "name": "altar", "x": 80, "y": 0, "category": "altar"},
+  { "name": "chest", "x": 90, "y": 0, "category": "chest"},
+  { "name": "rack_armor", "x": 100, "y": 0, "category": "rack_armor"},
+  { "name": "rack_weapon", "x": 110, "y": 0, "category": "rack_weapon"},
+  { "name": "teleport_pad", "x": 120, "y": 0, "category": "teleport_pad"},
+  { "name": "seal", "x": 130, "y": 0, "category": "seal"},
+  { "name": "boss", "x": 140, "y": 0, "category": "boss"},
+  { "name": "spawnpoint", "x": 150, "y": 0, "category": "spawnpoint"},
+  { "name": "dungeon", "x": 160, "y": 0, "category": "dungeon"},
+  { "name": "obelisk", "x": 170, "y": 0, "category": "obelisk"}
+]

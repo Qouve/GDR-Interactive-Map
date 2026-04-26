@@ -2,31 +2,13 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Game Map</title>
+  <title>GDR Interactive Map - CA5</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <style>
-    body { margin: 0; display: flex; font-family: Arial; }
-    #sidebar {
-      width: 250px;
-      background: #1e1e1e;
-      color: white;
-      padding: 15px;
-      overflow-y: auto;
-    }
-    #map { flex: 1; height: 100vh; }
-    label { display: block; margin-bottom: 8px; }
-    .resource {
-        border-radius: 50%;
-        border-width: 1px;
-        border-color: black;
-        border-style: solid;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
 <div id="sidebar">
-  <h3>Filter</h3>
   <div id="filters"></div>
 </div>
 
