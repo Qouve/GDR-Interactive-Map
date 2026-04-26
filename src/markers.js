@@ -22,7 +22,7 @@ export async function loadMarkers(map, name) {
   markers.forEach(m => {
     const marker = L.marker([m.y, m.x], {
       icon: icons[m.category] || icons.default
-    }).bindPopup(m.name + " at ["+m.x+","+m.y+"]");
+    }).bindPopup(m.name);
     const layer = markerLayers[name][m.category];
     if (!layer) {
       console.error(name, "is missing category", m.category);
