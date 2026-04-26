@@ -5,7 +5,10 @@ import { buildFilters } from "./ui.js";
 
 export const map = L.map('map', {
   crs: L.CRS.Simple,
-  minZoom: -3
+  minZoom: -3,
+  maxZoom: 3,
+  zoomSnap: 0,
+  zoomDelta: 0.5,
 });
 
 export function loadMap(name) {
