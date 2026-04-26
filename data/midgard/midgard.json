@@ -788,12 +788,6 @@
     {
         "category": "dungeon",
         "name": "Dungeon Exit",
-        "x": 2275,
-        "y": 2464
-    },
-    {
-        "category": "dungeon",
-        "name": "Dungeon Exit",
         "x": 2664,
         "y": 3352
     },
