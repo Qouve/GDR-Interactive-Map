@@ -140,7 +140,7 @@ export const uiLayers = {
     name: 'Obelisk',
     category: uiCategories.misc,
   },
-  valleysigil: {
+  sigil: {
     name: 'Sigil',
     category: uiCategories.resources,
   },
