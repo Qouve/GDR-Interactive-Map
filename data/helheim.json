@@ -1,0 +1,4 @@
+[
+    { "name": "wood", "x": 200, "y": 300, "category": "wood" },
+    { "name": "wood", "x": 600, "y": 700, "category": "wood" }
+  ]
