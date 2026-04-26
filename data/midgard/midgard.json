@@ -1483,33 +1483,75 @@
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "Spawn point",
         "x": 1156,
         "y": 2094
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "Spawn point",
         "x": 1457,
         "y": 361
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "Spawn point",
         "x": 1756,
         "y": 682
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "Spawn point",
         "x": 536,
         "y": 1232
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "Spawn point",
         "x": 536,
         "y": 1232
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawn point",
+        "x": 797,
+        "y": 1577
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawn point",
+        "x": 690,
+        "y": 1940
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawn point",
+        "x": 1564,
+        "y": 1883
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawn point",
+        "x": 1338,
+        "y": 1420
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawn point",
+        "x": 1004,
+        "y": 813
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawn point",
+        "x": 1900,
+        "y": 1546
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawn point",
+        "x": 1120,
+        "y": 1860
     },
     {
         "category": "stone",

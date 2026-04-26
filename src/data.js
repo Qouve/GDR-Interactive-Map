@@ -128,7 +128,7 @@ export const uiLayers = {
     category: uiCategories.misc,
   },
   spawnpoint: {
-    name: 'Spawnpoint',
+    name: 'Spawn point',
     category: uiCategories.misc,
   },
   dungeon: {
