@@ -39,6 +39,6 @@ export const icons = {
   dungeon: createResourceIcon('dungeon'),
   obelisk: createResourceIcon('obelisk'),
 
-  valleysigil: createResourceIcon('boss'),
+  sigil: createResourceIcon('sigil'),
   torkel: createResourceIcon('boss'),
 };

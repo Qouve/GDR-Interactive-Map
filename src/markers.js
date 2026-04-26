@@ -18,7 +18,7 @@ export function loadMarkers(map, name) {
       data.forEach(m => {
         const marker = L.marker([m.y, m.x], {
           icon: icons[m.category] || icons.default
-        }).bindPopup(m.name);
+        }).bindPopup(m.name + " at ["+m.x+","+m.y+"]");
         const layer = markerLayers[name][m.category];
         if (!layer) {
           console.error(name, "is missing category", m.category);
@@ -28,17 +28,17 @@ export function loadMarkers(map, name) {
       });
 
       // Todo add regions to a custom regions.json for each map
-      const polygon = L.polygon([
-        [2119, 2800],
-      ], { opacity: 0, fill: 0 }).addTo(map);
+      //const polygon = L.polygon([
+      //  [2119, 2800],
+      //], { opacity: 0, fill: 0 }).addTo(map);
 
-      polygon.bindTooltip("Test", {
-        permanent: true,
-        direction: "center",
-        className: "region-label"
-      });
+      //polygon.bindTooltip("Test", {
+      //  permanent: true,
+      //  direction: "center",
+      //  className: "region-label"
+      //});
 
-      polygon.addTo(map);
+      //polygon.addTo(map);
 
       Object.entries(markerLayers[name]).forEach(([cat, layer]) => {
         if (isCategoryActive(cat)) {

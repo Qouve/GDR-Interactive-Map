@@ -23,12 +23,11 @@ export const markerLayers = {
     rack_armor: L.layerGroup(),
     rack_weapon: L.layerGroup(),
     teleport_pad: L.layerGroup(),
-    seal: L.layerGroup(),
     boss: L.layerGroup(),
     spawnpoint: L.layerGroup(),
     dungeon: L.layerGroup(),
     obelisk: L.layerGroup(),
-    valleysigil: L.layerGroup(),
+    sigil: L.layerGroup(),
   },
   helheim: {
     wood: L.layerGroup(),
@@ -49,7 +48,7 @@ export const markerLayers = {
     spawnpoint: L.layerGroup(),
     dungeon: L.layerGroup(),
     obelisk: L.layerGroup(),
-    valleysigil: L.layerGroup(),
+    sigil: L.layerGroup(),
     torkel: L.layerGroup(),
   }
 };
@@ -139,6 +138,14 @@ export const uiLayers = {
   },
   obelisk: {
     name: 'Obelisk',
+    category: uiCategories.misc,
+  },
+  valleysigil: {
+    name: 'Sigil',
+    category: uiCategories.resources,
+  },
+  torkel: {
+    name: 'Dreadspawn / Torkel',
     category: uiCategories.misc,
   },
 }
