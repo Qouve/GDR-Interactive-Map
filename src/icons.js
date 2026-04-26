@@ -38,4 +38,6 @@ export const icons = {
   spawnpoint: createResourceIcon('spawnpoint'),
   dungeon: createResourceIcon('dungeon'),
   obelisk: createResourceIcon('obelisk'),
+
+  valleysigil: createResourceIcon('boss'),
 };
