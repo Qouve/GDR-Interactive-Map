@@ -17,7 +17,6 @@ export const markerLayers = {
     moss: L.layerGroup(),
     mushroom: L.layerGroup(),
     iron_ore: L.layerGroup(),
-    leather: L.layerGroup(),
     altar: L.layerGroup(),
     chest: L.layerGroup(),
     rack_armor: L.layerGroup(),
@@ -37,7 +36,6 @@ export const markerLayers = {
     moss: L.layerGroup(),
     mushroom: L.layerGroup(),
     iron_ore: L.layerGroup(),
-    leather: L.layerGroup(),
     altar: L.layerGroup(),
     chest: L.layerGroup(),
     rack_armor: L.layerGroup(),
@@ -94,10 +92,6 @@ export const uiLayers = {
   },
   iron_ore: {
     name: 'Iron Ore',
-    category: uiCategories.resources,
-  },
-  leather: {
-    name: 'Leather',
     category: uiCategories.resources,
   },
   altar: {
