@@ -6,7 +6,7 @@ function createResourceIcon(imageName) {
 function createCustomResourceIcon(imageName, className) {
   const classNames = ['marker-border', className].join(' ');
   return L.divIcon({
-    iconSize: [24, 24],
+    iconSize: [32, 32],
     popupAnchor: [0, -8],
     className: classNames,
     html: `
@@ -40,4 +40,5 @@ export const icons = {
   obelisk: createResourceIcon('obelisk'),
 
   valleysigil: createResourceIcon('boss'),
+  torkel: createResourceIcon('boss'),
 };
