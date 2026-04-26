@@ -41,4 +41,6 @@ export const icons = {
 
   sigil: createResourceIcon('sigil'),
   torkel: createResourceIcon('boss'),
+
+  ratatoskr_stash: createResourceIcon('sad_nuts'),
 };

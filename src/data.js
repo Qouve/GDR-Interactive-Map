@@ -8,6 +8,8 @@ export const maps = {
   helheim: L.imageOverlay('maps/helheim.png', mapBounds.helheim)
 };
 
+export const regionLayer = L.layerGroup();
+
 export const markerLayers = {
   midgard: {
     wood: L.layerGroup(),
@@ -27,6 +29,7 @@ export const markerLayers = {
     dungeon: L.layerGroup(),
     obelisk: L.layerGroup(),
     sigil: L.layerGroup(),
+    ratatoskr_stash: L.layerGroup(),
   },
   helheim: {
     wood: L.layerGroup(),
@@ -55,6 +58,7 @@ export const uiCategories = {
   resources: 'Resources',
   interactables: 'Interactables',
   misc: 'Misc',
+  quests: 'Quests',
   unknown: 'Unknown (Missing configuration)',
 }
 
@@ -62,6 +66,7 @@ export const uiCategoryOrder = [
   uiCategories.resources,
   uiCategories.interactables,
   uiCategories.misc,
+  uiCategories.quests,
   uiCategories.unknown,
 ];
 
@@ -142,6 +147,10 @@ export const uiLayers = {
     name: 'Dreadspawn / Torkel',
     category: uiCategories.misc,
   },
+  ratatoskr_stash: {
+    name: 'Ratatoskr Stash',
+    category: uiCategories.quests,
+  }
 }
 
 export const layerMaps = {

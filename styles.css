@@ -43,10 +43,11 @@ label {
 }
 
 .leaflet-tooltip.region-label {
-  color: yellow;
+  color: white;
   background: transparent;
   border: none;
   box-shadow: none;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 24px;
+  -webkit-text-stroke: 1px black;
 }

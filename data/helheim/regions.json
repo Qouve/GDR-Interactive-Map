@@ -1,0 +1,6 @@
+[
+  { "name": "The Old Root", "x": 3012, "y": 4700 },
+  { "name": "Underforest Tenders' Vault", "x": 4573, "y": 3151 },
+  { "name": "Forgotten Sanctuary", "x": 1152, "y": 3129 },
+  { "name": "The Flesh Cleft", "x": 375, "y": 1757, "offset": { "x": 0, "y": 30} }
+]
