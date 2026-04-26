@@ -29,20 +29,52 @@ export function initFilters(map) {
   });
 }
 
+function createSection(headerLabel) {
+  const sectionDiv = document.createElement("div");
+
+  const sectionHeader = document.createElement("h3");
+  const selectAllBtn = document.createElement("button");
+  const removeAllBtn = document.createElement("button");
+
+  sectionHeader.innerHTML = headerLabel;
+  selectAllBtn.innerHTML = "Select all";
+  removeAllBtn.innerHTML = "Remove all";
+
+  selectAllBtn.addEventListener("click", () => {
+    sectionDiv.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+      cb.checked = true;
+      cb.dispatchEvent(new Event('change', { bubbles: true }));
+    });
+  });
+
+  removeAllBtn.addEventListener("click", () => {
+    sectionDiv.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+      cb.checked = false;
+      cb.dispatchEvent(new Event('change', { bubbles: true }));
+    });
+  });
+
+  sectionDiv.appendChild(sectionHeader);
+  sectionDiv.appendChild(selectAllBtn);
+  sectionDiv.appendChild(removeAllBtn);
+
+  return sectionDiv;
+}
+
 export function buildFilters(map) {
 
   const container = document.getElementById("filters");
   container.innerHTML = "";
 
-  const uiDatas = Object.keys(markerLayers[map]).map(cat =>  ({ cat: cat, data: uiLayers[cat] || undefined} ));
+  const uiDatas = Object.keys(markerLayers[map]).map(cat => ({ cat: cat, data: uiLayers[cat] || undefined }));
   const buckets = [];
   uiDatas.forEach((item) => {
     const category = item.data?.category || uiCategories.unknown;
-  
+
     if (!buckets[category]) {
       buckets[category] = [];
     }
-  
+
     buckets[category].push(item);
   });
 
@@ -56,11 +88,7 @@ export function buildFilters(map) {
       return;
     }
 
-    const categoryDiv = document.createElement("section");
-
-    const sectionHeader = document.createElement("h3");
-    sectionHeader.innerHTML = bucket.category;
-    categoryDiv.appendChild(sectionHeader);
+    const sectionDiv = createSection(bucket.category);
 
     bucket.items.forEach(item => {
       const label = document.createElement("label");
@@ -69,11 +97,11 @@ export function buildFilters(map) {
         <input type="checkbox" value="${item.cat}" checked>
         ${item.data?.name || item.cat}
       `;
-  
-      categoryDiv.appendChild(label);
+
+      sectionDiv.appendChild(label);
     })
 
-    container.appendChild(categoryDiv);
+    container.appendChild(sectionDiv);
   });
 
   initFilters(map);
