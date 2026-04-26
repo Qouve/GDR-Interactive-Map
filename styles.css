@@ -51,3 +51,12 @@ label {
   font-size: 24px;
   -webkit-text-stroke: 1px black;
 }
+
+.section-header-container {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.section-header-label {
+  flex-grow: 1;
+}

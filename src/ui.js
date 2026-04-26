@@ -32,13 +32,14 @@ export function initFilters(map) {
 function createSection(headerLabel) {
   const sectionDiv = document.createElement("div");
 
-  const sectionHeader = document.createElement("h3");
+  const headerDiv = document.createElement("div");
+  const sectionHeader = document.createElement("h4");
   const selectAllBtn = document.createElement("button");
   const removeAllBtn = document.createElement("button");
 
   sectionHeader.innerHTML = headerLabel;
-  selectAllBtn.innerHTML = "Select all";
-  removeAllBtn.innerHTML = "Remove all";
+  selectAllBtn.innerHTML = "Select";
+  removeAllBtn.innerHTML = "Remove";
 
   selectAllBtn.addEventListener("click", () => {
     sectionDiv.querySelectorAll('input[type="checkbox"]').forEach(cb => {
@@ -54,9 +55,14 @@ function createSection(headerLabel) {
     });
   });
 
-  sectionDiv.appendChild(sectionHeader);
-  sectionDiv.appendChild(selectAllBtn);
-  sectionDiv.appendChild(removeAllBtn);
+  headerDiv.className = "section-header-container";
+  sectionHeader.className = "section-header-label";
+
+  headerDiv.appendChild(sectionHeader);
+  headerDiv.appendChild(selectAllBtn);
+  headerDiv.appendChild(removeAllBtn);
+
+  sectionDiv.appendChild(headerDiv)
 
   return sectionDiv;
 }
