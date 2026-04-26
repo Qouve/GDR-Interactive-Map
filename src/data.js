@@ -8,8 +8,6 @@ export const maps = {
   helheim: L.imageOverlay('maps/helheim.png', mapBounds.helheim)
 };
 
-export const regionLayer = L.layerGroup();
-
 export const markerLayers = {
   midgard: {
     wood: L.layerGroup(),
@@ -30,6 +28,7 @@ export const markerLayers = {
     obelisk: L.layerGroup(),
     sigil: L.layerGroup(),
     ratatoskr_stash: L.layerGroup(),
+    region: L.layerGroup(),
   },
   helheim: {
     wood: L.layerGroup(),
@@ -51,6 +50,7 @@ export const markerLayers = {
     obelisk: L.layerGroup(),
     sigil: L.layerGroup(),
     torkel: L.layerGroup(),
+    region: L.layerGroup(),
   }
 };
 
@@ -150,6 +150,10 @@ export const uiLayers = {
   ratatoskr_stash: {
     name: 'Ratatoskr Stash',
     category: uiCategories.quests,
+  },
+  region: {
+    name: 'Regions',
+    category: uiCategories.misc,
   }
 }
 

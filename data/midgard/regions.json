@@ -1,13 +1,13 @@
 [
-  { "name": "Charnel Pits", "x": 1947, "y": 3043 },
-  { "name": "The Dregs", "x": 2437, "y": 2633 },
-  { "name": "Serpent's Tomb", "x": 2881, "y": 2150 },
-  { "name": "Smuggler's Sea Cave", "x": 3382, "y": 1733 },
-  { "name": "Frozen Larder", "x": 3903, "y": 2351 },
-  { "name": "Runelocked Grotto", "x": 3543, "y": 2766 },
-  { "name": "Lair of the Wolfjarl", "x": 3086, "y": 3119 },
-  { "name": "Farmstead Mine Cellar", "x": 2748, "y": 3527 },
-  { "name": "Old Mineshaft", "x": 2305, "y": 3962 },
-  { "name": "Loki's Cave", "x": 367, "y": 2697 },
-  { "name": "Nidavellheim Mines", "x": 2356, "y": 531, "offset": { "x": 0, "y": 30} }
+  { "name": "Charnel Pits", "x": 1947, "y": 3043, "category": "region" },
+  { "name": "The Dregs", "x": 2437, "y": 2633, "category": "region" },
+  { "name": "Serpent's Tomb", "x": 2881, "y": 2150 , "category": "region" },
+  { "name": "Smuggler's Sea Cave", "x": 3382, "y": 1733, "category": "region" },
+  { "name": "Frozen Larder", "x": 3903, "y": 2351, "category": "region" },
+  { "name": "Runelocked Grotto", "x": 3543, "y": 2766, "category": "region" },
+  { "name": "Lair of the Wolfjarl", "x": 3086, "y": 3119, "category": "region" },
+  { "name": "Farmstead Mine Cellar", "x": 2748, "y": 3527, "category": "region" },
+  { "name": "Old Mineshaft", "x": 2305, "y": 3962, "category": "region" },
+  { "name": "Loki's Cave", "x": 367, "y": 2697, "category": "region" },
+  { "name": "Nidavellheim Mines", "x": 2356, "y": 531, "offset": { "x": 0, "y": 30}, "category": "region" }
 ]

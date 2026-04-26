@@ -1,12 +1,11 @@
 import { icons } from "./icons.js";
 import { isCategoryActive } from "./ui.js";
-import { markerLayers, regionLayer } from "./data.js";
+import { markerLayers } from "./data.js";
 
 function clear() {
   Object.values(markerLayers).forEach(m =>
     Object.values(m).forEach(l => l.clearLayers())
   );
-  regionLayer.clearLayers();
 }
 
 export async function loadMarkers(map, name) {
@@ -41,10 +40,14 @@ export async function loadMarkers(map, name) {
       offset: region.offset ? [region.offset.x, region.offset.y] : [0,0]
     });
 
-    regionLayer.addLayer(polygon);
-  });
+    const layer = markerLayers[name][region.category];
+    if (!layer) {
+      console.error(name, "is missing category", region.category);
+      return;
+    }
 
-  regionLayer.addTo(map);
+    layer.addLayer(polygon);
+  });
 
   Object.entries(markerLayers[name]).forEach(([cat, layer]) => {
     if (isCategoryActive(cat)) {
