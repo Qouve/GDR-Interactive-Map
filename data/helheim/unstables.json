@@ -1,61 +1,1370 @@
 [
-  { "name": "iron_ore", "x": 3487, "y": 1189, "category": "iron_ore"},
-{ "name": "iron_ore", "x": 3429, "y": 1396, "category": "iron_ore"},
-{ "name": "stone", "x": 3701, "y": 1276, "category": "stone"},
-{ "name": "stone", "x": 3777, "y": 1232, "category": "stone"},
-{ "name": "stone", "x": 3508, "y": 1507, "category": "stone"},
-{ "name": "bifrost", "x": 3048, "y": 1453, "category": "bifrost"},
-{ "name": "mushroom", "x": 3139, "y": 1434, "category": "mushroom"},
-{ "name": "wood", "x": 3687, "y": 1625, "category": "wood"},
-{ "name": "stone", "x": 3457, "y": 1811, "category": "stone"},
-{ "name": "mushroom", "x": 3920, "y": 1855, "category": "mushroom"},
-{ "name": "moss", "x": 3979, "y": 2126, "category": "moss"},
-{ "name": "wood", "x": 4075, "y": 2067, "category": "wood"},
-{ "name": "wood", "x": 4082, "y": 2327, "category": "wood"},
-{ "name": "wood", "x": 4057, "y": 2435, "category": "wood"},
-{ "name": "wood", "x": 4017, "y": 2394, "category": "wood"},
-{ "name": "wood", "x": 3911, "y": 2318, "category": "wood"},
-{ "name": "moss", "x": 3795, "y": 2143, "category": "moss"},
-{ "name": "moss", "x": 3550, "y": 2476, "category": "moss"},
-{ "name": "wood", "x": 3597, "y": 2559, "category": "wood"},
-{ "name": "wood", "x": 3542, "y": 2758, "category": "wood"},
-{ "name": "wood", "x": 3444, "y": 2554, "category": "wood"},
-{ "name": "stone", "x": 2739, "y": 2364, "category": "stone"},
-{ "name": "stone", "x": 2630, "y": 2564, "category": "stone"},
-{ "name": "mushroom", "x": 3014, "y": 2716, "category": "mushroom"},
-{ "name": "wood", "x": 2822, "y": 2693, "category": "wood"},
-{ "name": "iron_ore", "x": 4641, "y": 2617, "category": "iron_ore"},
-{ "name": "stone", "x": 4824, "y": 2844, "category": "stone"},
-{ "name": "stone", "x": 2478, "y": 2499, "category": "stone"},
-{ "name": "stone", "x": 2442, "y": 2543, "category": "stone"},
-{ "name": "bone", "x": 2063, "y": 2448, "category": "bone"},
-{ "name": "bifrost", "x": 2122, "y": 2519, "category": "bifrost"},
-{ "name": "bone", "x": 2054, "y": 2571, "category": "bone"},
-{ "name": "iron_ore", "x": 2362, "y": 2361, "category": "iron_ore"},
-{ "name": "mushroom", "x": 2507, "y": 1962, "category": "mushroom"},
-{ "name": "mushroom", "x": 2745, "y": 1909, "category": "mushroom"},
-{ "name": "bone", "x": 2706, "y": 2009, "category": "bone"},
-{ "name": "stone", "x": 2742, "y": 2032, "category": "stone"},
-{ "name": "mushroom", "x": 2508, "y": 2170, "category": "mushroom"},
-{ "name": "bone", "x": 2429, "y": 2263, "category": "bone"},
-{ "name": "iron_ore", "x": 2761, "y": 1598, "category": "iron_ore"},
-{ "name": "iron_ore", "x": 2758, "y": 1058, "category": "iron_ore"},
-{ "name": "iron_ore", "x": 3019, "y": 1048, "category": "iron_ore"},
-{ "name": "iron_ore", "x": 2864, "y": 1108, "category": "iron_ore"},
-{ "name": "iron_ore", "x": 2682, "y": 1191, "category": "iron_ore"},
-{ "name": "stone", "x": 2199, "y": 1061, "category": "stone"},
-{ "name": "stone", "x": 2179, "y": 1530, "category": "stone"},
-{ "name": "moss", "x": 1795, "y": 1490, "category": "moss"},
-{ "name": "iron_ore", "x": 1810, "y": 1352, "category": "iron_ore"},
-{ "name": "iron_ore", "x": 1345, "y": 1659, "category": "iron_ore"},
-{ "name": "moss", "x": 1554, "y": 1726, "category": "moss"},
-{ "name": "iron_ore", "x": 2121, "y": 1842, "category": "iron_ore"},
-{ "name": "bifrost", "x": 2403, "y": 1367, "category": "bifrost"},
-{ "name": "bifrost", "x": 2428, "y": 1924, "category": "bifrost"},
-{ "name": "bifrost", "x": 2098, "y": 1914, "category": "bifrost"},
-{ "name": "bifrost", "x": 1766, "y": 2037, "category": "bifrost"},
-{ "name": "bifrost", "x": 776, "y": 2445, "category": "bifrost"},
-{ "name": "stone", "x": 1626, "y": 2142, "category": "stone"},
-{ "name": "bone", "x": 1747, "y": 2420, "category": "bone"}
-
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1579,
+      "y": 2365
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1582,
+      "y": 1510
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 2094,
+      "y": 1611
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 2254,
+      "y": 2637
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 2294,
+      "y": 3556
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 2365,
+      "y": 2021
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 2648,
+      "y": 2596
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 2973,
+      "y": 1399
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 3138,
+      "y": 2772
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 3526,
+      "y": 1279
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 3867,
+      "y": 2001
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 3970,
+      "y": 2591
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 1591,
+      "y": 1422
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 1594,
+      "y": 2013
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 1961,
+      "y": 2124
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 2341,
+      "y": 1717
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 2517,
+      "y": 1611
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 2636,
+      "y": 798
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 3577,
+      "y": 1133
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 998,
+      "y": 2800
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 1766,
+      "y": 2037
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 2098,
+      "y": 1914
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 2122,
+      "y": 2519
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 2403,
+      "y": 1367
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 2428,
+      "y": 1924
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 3048,
+      "y": 1453
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 776,
+      "y": 2445
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1855,
+      "y": 2507
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1935,
+      "y": 2968
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 2245,
+      "y": 2510
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 2264,
+      "y": 2274
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 2607,
+      "y": 2307
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 2946,
+      "y": 4440
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 2989,
+      "y": 1394
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 3235,
+      "y": 1772
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 3436,
+      "y": 1115
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 4743,
+      "y": 2781
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1747,
+      "y": 2420
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 2054,
+      "y": 2571
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 2063,
+      "y": 2448
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 2429,
+      "y": 2263
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 2706,
+      "y": 2009
+  },
+  {
+      "category": "boss",
+      "name": "Boss",
+      "x": 991,
+      "y": 1333
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1140,
+      "y": 2978
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1180,
+      "y": 2620
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1186,
+      "y": 2987
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1253,
+      "y": 2996
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1304,
+      "y": 2955
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1525,
+      "y": 2337
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1793,
+      "y": 1390
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1929,
+      "y": 1831
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2253,
+      "y": 3593
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2507,
+      "y": 1710
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2509,
+      "y": 3323
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2518,
+      "y": 2910
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2619,
+      "y": 2951
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2624,
+      "y": 1210
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2635,
+      "y": 1536
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2792,
+      "y": 1818
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2811,
+      "y": 2534
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2888,
+      "y": 2467
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2892,
+      "y": 4555
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2918,
+      "y": 1551
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 3089,
+      "y": 2900
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 3560,
+      "y": 2571
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 3883,
+      "y": 1142
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 3894,
+      "y": 2776
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 4022,
+      "y": 1967
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 4096,
+      "y": 2429
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 4323,
+      "y": 1636
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 441,
+      "y": 2156
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 4586,
+      "y": 2937
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 4759,
+      "y": 2966
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 714,
+      "y": 2566
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 842,
+      "y": 1329
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 907,
+      "y": 1451
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 3057,
+      "y": 4242
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 4529,
+      "y": 2491
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 533,
+      "y": 1933
+  },
+  {
+      "category": "dungeon",
+      "name": "Forgotten Sanctuary",
+      "x": 1251,
+      "y": 2078
+  },
+  {
+      "category": "dungeon",
+      "name": "Impassable Wall (opens after Boss Death)",
+      "x": 1287,
+      "y": 1417
+  },
+  {
+      "category": "dungeon",
+      "name": "The Flesh Cleft",
+      "x": 3247,
+      "y": 1307
+  },
+  {
+      "category": "dungeon",
+      "name": "The Old Root",
+      "x": 3209,
+      "y": 3128
+  },
+  {
+      "category": "dungeon",
+      "name": "Underforest Tenders' Vault",
+      "x": 4412,
+      "y": 2374
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1484,
+      "y": 2179
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2082,
+      "y": 2205
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2860,
+      "y": 1462
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3002,
+      "y": 1170
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3064,
+      "y": 1031
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3351,
+      "y": 1335
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3425,
+      "y": 1142
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 4518,
+      "y": 2678
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 4861,
+      "y": 2769
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1345,
+      "y": 1659
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1810,
+      "y": 1352
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2121,
+      "y": 1842
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2362,
+      "y": 2361
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2682,
+      "y": 1191
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2758,
+      "y": 1058
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2761,
+      "y": 1598
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2864,
+      "y": 1108
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3019,
+      "y": 1048
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3429,
+      "y": 1396
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3487,
+      "y": 1189
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 4641,
+      "y": 2617
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1934,
+      "y": 1176
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 2257,
+      "y": 1292
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 2417,
+      "y": 892
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 2518,
+      "y": 1147
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 2722,
+      "y": 2442
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 3191,
+      "y": 2748
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 3586,
+      "y": 1738
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 3999,
+      "y": 1968
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 4446,
+      "y": 2857
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1554,
+      "y": 1726
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1795,
+      "y": 1490
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 3550,
+      "y": 2476
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 3795,
+      "y": 2143
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 3979,
+      "y": 2126
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 2432,
+      "y": 2106
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 2499,
+      "y": 2855
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 2653,
+      "y": 1855
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 2933,
+      "y": 1491
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 3145,
+      "y": 1768
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 3450,
+      "y": 2789
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 3726,
+      "y": 1664
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 4445,
+      "y": 2821
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 2507,
+      "y": 1962
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 2508,
+      "y": 2170
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 2745,
+      "y": 1909
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 3014,
+      "y": 2716
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 3139,
+      "y": 1434
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 3920,
+      "y": 1855
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1613,
+      "y": 1740
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1670,
+      "y": 2301
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 2043,
+      "y": 1273
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 2130,
+      "y": 3473
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 2383,
+      "y": 928
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 3032,
+      "y": 2646
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 3100,
+      "y": 1645
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 3107,
+      "y": 3144
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 3789,
+      "y": 1119
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 3885,
+      "y": 2602
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 3940,
+      "y": 1970
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 4326,
+      "y": 1597
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 1131,
+      "y": 2975
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 1198,
+      "y": 2996
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 1235,
+      "y": 2371
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 1463,
+      "y": 2484
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 810,
+      "y": 2508
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 927,
+      "y": 2780
+  },
+  {
+      "category": "seal",
+      "name": "Seal / Totem",
+      "x": 2147,
+      "y": 3576
+  },
+  {
+      "category": "seal",
+      "name": "Seal / Totem",
+      "x": 2198,
+      "y": 2694
+  },
+  {
+      "category": "seal",
+      "name": "Seal / Totem",
+      "x": 2953,
+      "y": 1508
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 2503,
+      "y": 2936
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 3116,
+      "y": 2816
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 3184,
+      "y": 2054
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 3748,
+      "y": 2293
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 3752,
+      "y": 2711
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 4373,
+      "y": 1609
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 4706,
+      "y": 2753
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1333,
+      "y": 1759
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1341,
+      "y": 2039
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1861,
+      "y": 2750
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 2093,
+      "y": 3139
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 2223,
+      "y": 1853
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 2790,
+      "y": 945
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 2872,
+      "y": 3200
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 3311,
+      "y": 1970
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 3372,
+      "y": 1055
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 3985,
+      "y": 2446
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1468,
+      "y": 1449
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1890,
+      "y": 1531
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2025,
+      "y": 3027
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2342,
+      "y": 1383
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2368,
+      "y": 2652
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2421,
+      "y": 2873
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2550,
+      "y": 2124
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2575,
+      "y": 855
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2601,
+      "y": 2562
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2646,
+      "y": 1195
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2882,
+      "y": 4539
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2975,
+      "y": 1276
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 3034,
+      "y": 2019
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 3393,
+      "y": 1628
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 3656,
+      "y": 1415
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1626,
+      "y": 2142
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2179,
+      "y": 1530
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2199,
+      "y": 1061
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2442,
+      "y": 2543
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2478,
+      "y": 2499
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2630,
+      "y": 2564
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2739,
+      "y": 2364
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2742,
+      "y": 2032
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 3457,
+      "y": 1811
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 3508,
+      "y": 1507
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 3701,
+      "y": 1276
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 3777,
+      "y": 1232
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 4824,
+      "y": 2844
+  },
+  {
+      "category": "teleport_pad",
+      "name": "One-Way Teleport to Boss",
+      "x": 1321,
+      "y": 1423
+  },
+  {
+      "category": "teleport_pad",
+      "name": "Spawn point into the arena",
+      "x": 1079,
+      "y": 1161
+  },
+  {
+      "category": "teleport_pad",
+      "name": "Teleport pad",
+      "x": 3351,
+      "y": 2878
+  },
+  {
+      "category": "teleport_pad",
+      "name": "Teleport pad",
+      "x": 3447,
+      "y": 2813
+  },
+  {
+      "category": "torkel",
+      "name": "Dreadspawn / Torkel",
+      "x": 1954,
+      "y": 2939
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 2495,
+      "y": 2841
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 2894,
+      "y": 4453
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 2916,
+      "y": 3147
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 2919,
+      "y": 2401
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3146,
+      "y": 2770
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3270,
+      "y": 3019
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3374,
+      "y": 2324
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3621,
+      "y": 1742
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3699,
+      "y": 2737
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3785,
+      "y": 1506
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3852,
+      "y": 2198
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3965,
+      "y": 1847
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 4152,
+      "y": 1960
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 4290,
+      "y": 1629
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 2822,
+      "y": 2693
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3444,
+      "y": 2554
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3542,
+      "y": 2758
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3597,
+      "y": 2559
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3687,
+      "y": 1625
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 3911,
+      "y": 2318
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 4017,
+      "y": 2394
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 4057,
+      "y": 2435
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 4075,
+      "y": 2067
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 4082,
+      "y": 2327
+  }
 ]

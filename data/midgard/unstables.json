@@ -1,2 +1,2186 @@
 [
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1038,
+      "y": 677
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1040,
+      "y": 1177
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1040,
+      "y": 1177
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1124,
+      "y": 1578
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1124,
+      "y": 1578
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1194,
+      "y": 1984
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1266,
+      "y": 2295
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1485,
+      "y": 645
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1619,
+      "y": 1210
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1619,
+      "y": 1210
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 1680,
+      "y": 1510
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 2067,
+      "y": 981
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 2089,
+      "y": 1501
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 560,
+      "y": 1924
+  },
+  {
+      "category": "altar",
+      "name": "Altar",
+      "x": 819,
+      "y": 2161
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 1358,
+      "y": 1740
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 1705,
+      "y": 1823
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 2161,
+      "y": 776
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 389,
+      "y": 2614
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 414,
+      "y": 1692
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 483,
+      "y": 1750
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 1547,
+      "y": 1441
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 1719,
+      "y": 1704
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 1722,
+      "y": 1702
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 1780,
+      "y": 1568
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 220,
+      "y": 2452
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 2265,
+      "y": 693
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 271,
+      "y": 2504
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 336,
+      "y": 2283
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 451,
+      "y": 1620
+  },
+  {
+      "category": "bifrost",
+      "name": "Bifrost",
+      "x": 463,
+      "y": 1665
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1058,
+      "y": 2355
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1171,
+      "y": 2428
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1245,
+      "y": 713
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1265,
+      "y": 778
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1931,
+      "y": 2988
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 245,
+      "y": 2424
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 823,
+      "y": 1792
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 871,
+      "y": 2225
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 881,
+      "y": 2450
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1302,
+      "y": 2110
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1958,
+      "y": 2846
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 1998,
+      "y": 2833
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 3039,
+      "y": 2983
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 354,
+      "y": 2596
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 3597,
+      "y": 2641
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 776,
+      "y": 2220
+  },
+  {
+      "category": "bone",
+      "name": "Bone",
+      "x": 997,
+      "y": 2537
+  },
+  {
+      "category": "boss",
+      "name": "Boss (50% chance after 10 minutes)",
+      "x": 1672,
+      "y": 1709
+  },
+  {
+      "category": "boss",
+      "name": "Boss (50% chance after 10 minutes)",
+      "x": 464,
+      "y": 1717
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1015,
+      "y": 2565
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1022,
+      "y": 1674
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1078,
+      "y": 1274
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1078,
+      "y": 1274
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1166,
+      "y": 2001
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1180,
+      "y": 1382
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1180,
+      "y": 1382
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1238,
+      "y": 1236
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1238,
+      "y": 1236
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1239,
+      "y": 786
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1288,
+      "y": 874
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1302,
+      "y": 2259
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1315,
+      "y": 2100
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1338,
+      "y": 1967
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1341,
+      "y": 477
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1396,
+      "y": 1784
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1407,
+      "y": 1026
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1438,
+      "y": 588
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1461,
+      "y": 1253
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1461,
+      "y": 1253
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1544,
+      "y": 680
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1645,
+      "y": 1180
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1645,
+      "y": 1180
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1681,
+      "y": 1312
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1681,
+      "y": 1312
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1717,
+      "y": 1716
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1796,
+      "y": 1882
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1874,
+      "y": 1572
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1874,
+      "y": 1572
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1898,
+      "y": 714
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1898,
+      "y": 714
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1923,
+      "y": 1025
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1930,
+      "y": 888
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 1994,
+      "y": 2810
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2004,
+      "y": 938
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2108,
+      "y": 1034
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2109,
+      "y": 1484
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 216,
+      "y": 2470
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2170,
+      "y": 1127
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2173,
+      "y": 808
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2187,
+      "y": 1297
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2316,
+      "y": 1175
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2328,
+      "y": 1335
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2354,
+      "y": 666
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2368,
+      "y": 3822
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2375,
+      "y": 1195
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2379,
+      "y": 1427
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2420,
+      "y": 2462
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2420,
+      "y": 2462
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2497,
+      "y": 2557
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2497,
+      "y": 2557
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2537,
+      "y": 807
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2791,
+      "y": 3456
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 2918,
+      "y": 2071
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 3034,
+      "y": 2961
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 341,
+      "y": 1541
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 3430,
+      "y": 1658
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 3506,
+      "y": 2664
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 352,
+      "y": 2267
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 383,
+      "y": 2631
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 4068,
+      "y": 2180
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 4068,
+      "y": 2180
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 499,
+      "y": 1903
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 534,
+      "y": 2004
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 622,
+      "y": 2138
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 657,
+      "y": 1153
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 657,
+      "y": 1153
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 778,
+      "y": 1765
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 784,
+      "y": 2290
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 798,
+      "y": 981
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 798,
+      "y": 981
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 842,
+      "y": 1187
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 842,
+      "y": 1187
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 842,
+      "y": 2200
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 849,
+      "y": 2460
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 865,
+      "y": 1725
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 873,
+      "y": 1870
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 874,
+      "y": 1523
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 874,
+      "y": 1523
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 895,
+      "y": 2067
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 955,
+      "y": 1093
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 955,
+      "y": 1093
+  },
+  {
+      "category": "chest",
+      "name": "Chest",
+      "x": 964,
+      "y": 2371
+  },
+  {
+      "category": "dungeon",
+      "name": "Charnel Pits",
+      "x": 875,
+      "y": 2009
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 1879,
+      "y": 2858
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 2221,
+      "y": 3797
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 2272,
+      "y": 2468
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 2272,
+      "y": 2468
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 2664,
+      "y": 3352
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 2712,
+      "y": 2039
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 3193,
+      "y": 2900
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 3301,
+      "y": 1556
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 3596,
+      "y": 2500
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 3806,
+      "y": 2231
+  },
+  {
+      "category": "dungeon",
+      "name": "Dungeon Exit",
+      "x": 3806,
+      "y": 2231
+  },
+  {
+      "category": "dungeon",
+      "name": "Farmstead Mine Cellar",
+      "x": 1377,
+      "y": 998
+  },
+  {
+      "category": "dungeon",
+      "name": "Frozen Larder",
+      "x": 1391,
+      "y": 1555
+  },
+  {
+      "category": "dungeon",
+      "name": "Lair of the Wolfjarl",
+      "x": 1260,
+      "y": 2167
+  },
+  {
+      "category": "dungeon",
+      "name": "Loki's Cave",
+      "x": 636,
+      "y": 2196
+  },
+  {
+      "category": "dungeon",
+      "name": "Nidavellheim Mines",
+      "x": 2162,
+      "y": 977
+  },
+  {
+      "category": "dungeon",
+      "name": "Old Mineshaft",
+      "x": 1319,
+      "y": 508
+  },
+  {
+      "category": "dungeon",
+      "name": "Runelocked Grotto",
+      "x": 782,
+      "y": 1674
+  },
+  {
+      "category": "dungeon",
+      "name": "Serpent's Tomb",
+      "x": 1431,
+      "y": 2019
+  },
+  {
+      "category": "dungeon",
+      "name": "Smuggler's Sea Cave",
+      "x": 2067,
+      "y": 1280
+  },
+  {
+      "category": "dungeon",
+      "name": "The Dregs",
+      "x": 1067,
+      "y": 1107
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1008,
+      "y": 1632
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1014,
+      "y": 1920
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1035,
+      "y": 1793
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1196,
+      "y": 548
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1570,
+      "y": 1306
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1570,
+      "y": 1306
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1675,
+      "y": 545
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1703,
+      "y": 1056
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1703,
+      "y": 1056
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1876,
+      "y": 1329
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1876,
+      "y": 1329
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1883,
+      "y": 837
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1883,
+      "y": 837
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1899,
+      "y": 2873
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1969,
+      "y": 1521
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2421,
+      "y": 2429
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2421,
+      "y": 2429
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2776,
+      "y": 3458
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 329,
+      "y": 2423
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3446,
+      "y": 2576
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 643,
+      "y": 1583
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 784,
+      "y": 1313
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 784,
+      "y": 1313
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1121,
+      "y": 1694
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1216,
+      "y": 645
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 1463,
+      "y": 473
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2128,
+      "y": 1430
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2279,
+      "y": 3873
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2417,
+      "y": 2588
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2466,
+      "y": 732
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 2755,
+      "y": 2044
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3119,
+      "y": 2924
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3160,
+      "y": 2979
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3357,
+      "y": 1677
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3774,
+      "y": 2124
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 3993,
+      "y": 2250
+  },
+  {
+      "category": "iron_ore",
+      "name": "Iron ore",
+      "x": 522,
+      "y": 2444
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1271,
+      "y": 635
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1583,
+      "y": 429
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1648,
+      "y": 695
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1648,
+      "y": 695
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 2024,
+      "y": 1432
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 396,
+      "y": 1527
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 892,
+      "y": 1963
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1405,
+      "y": 802
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1492,
+      "y": 546
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1680,
+      "y": 889
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 1770,
+      "y": 1184
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 394,
+      "y": 1528
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 578,
+      "y": 1940
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 678,
+      "y": 2024
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 723,
+      "y": 2158
+  },
+  {
+      "category": "moss",
+      "name": "Moss",
+      "x": 933,
+      "y": 2071
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 1095,
+      "y": 909
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 1402,
+      "y": 589
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 1480,
+      "y": 882
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 1708,
+      "y": 1252
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 1708,
+      "y": 1252
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 2805,
+      "y": 3429
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 375,
+      "y": 1573
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 4062,
+      "y": 2175
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 4062,
+      "y": 2175
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 521,
+      "y": 1463
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 608,
+      "y": 1875
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 1039,
+      "y": 2018
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 1286,
+      "y": 2119
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 1340,
+      "y": 755
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 432,
+      "y": 1954
+  },
+  {
+      "category": "mushroom",
+      "name": "Mushroom",
+      "x": 655,
+      "y": 1321
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1041,
+      "y": 1868
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1122,
+      "y": 2268
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1317,
+      "y": 1614
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1317,
+      "y": 1614
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1468,
+      "y": 1221
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1468,
+      "y": 1221
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1579,
+      "y": 615
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1652,
+      "y": 840
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1652,
+      "y": 840
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1738,
+      "y": 1809
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1757,
+      "y": 1325
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1757,
+      "y": 1325
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1889,
+      "y": 752
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 1889,
+      "y": 752
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 2382,
+      "y": 1400
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 368,
+      "y": 1557
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 748,
+      "y": 1291
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 748,
+      "y": 1291
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 798,
+      "y": 2036
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 843,
+      "y": 1043
+  },
+  {
+      "category": "obelisk",
+      "name": "Obelisk",
+      "x": 843,
+      "y": 1043
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor) (after Knut quests)",
+      "x": 3403,
+      "y": 1668
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 2018,
+      "y": 2910
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 2183,
+      "y": 821
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 2273,
+      "y": 724
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 2397,
+      "y": 934
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 2412,
+      "y": 2444
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 2412,
+      "y": 2444
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 2514,
+      "y": 817
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 3350,
+      "y": 1619
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 3895,
+      "y": 2250
+  },
+  {
+      "category": "rack_armor",
+      "name": "Rack (Armor)",
+      "x": 3895,
+      "y": 2250
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 1948,
+      "y": 2862
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 2014,
+      "y": 2917
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 2190,
+      "y": 825
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 2206,
+      "y": 915
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 2254,
+      "y": 677
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 2354,
+      "y": 926
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 2367,
+      "y": 3809
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 2390,
+      "y": 805
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 2746,
+      "y": 3460
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 2933,
+      "y": 2060
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 3346,
+      "y": 1632
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 3925,
+      "y": 2255
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 3925,
+      "y": 2255
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 4071,
+      "y": 2223
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 4071,
+      "y": 2223
+  },
+  {
+      "category": "rack_weapon",
+      "name": "Rack (Weapon)",
+      "x": 414,
+      "y": 2415
+  },
+  {
+      "category": "ratatoskr_stash",
+      "name": "Hangedman's Tree",
+      "x": 1520,
+      "y": 494
+  },
+  {
+      "category": "ratatoskr_stash",
+      "name": "Ruined House",
+      "x": 1954,
+      "y": 1539
+  },
+  {
+      "category": "ratatoskr_stash",
+      "name": "The Fens",
+      "x": 548,
+      "y": 1995
+  },
+  {
+      "category": "ratatoskr_stash",
+      "name": "Ymir's Arsecrack",
+      "x": 1326,
+      "y": 2079
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 1055,
+      "y": 2120
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 1331,
+      "y": 766
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 2073,
+      "y": 1520
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 429,
+      "y": 1761
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 672,
+      "y": 2197
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 906,
+      "y": 1861
+  },
+  {
+      "category": "sigil",
+      "name": "Sigil",
+      "x": 937,
+      "y": 2517
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1004,
+      "y": 813
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1120,
+      "y": 1860
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1156,
+      "y": 2094
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1338,
+      "y": 1420
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1457,
+      "y": 361
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1564,
+      "y": 1883
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1756,
+      "y": 682
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1900,
+      "y": 1546
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 536,
+      "y": 1232
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 536,
+      "y": 1232
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 690,
+      "y": 1940
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 1872,
+      "y": 1186
+  },
+  {
+      "category": "spawnpoint",
+      "name": "Spawn point",
+      "x": 808,
+      "y": 1542
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1197,
+      "y": 1850
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1344,
+      "y": 1223
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1344,
+      "y": 1223
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1380,
+      "y": 1328
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1380,
+      "y": 1328
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1384,
+      "y": 1899
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1416,
+      "y": 2034
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1514,
+      "y": 1251
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1514,
+      "y": 1251
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1559,
+      "y": 1376
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1559,
+      "y": 1376
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2325,
+      "y": 779
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2359,
+      "y": 3860
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2486,
+      "y": 2576
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2486,
+      "y": 2576
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 344,
+      "y": 2533
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1025,
+      "y": 1718
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1191,
+      "y": 1601
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1211,
+      "y": 2199
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1315,
+      "y": 1751
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1338,
+      "y": 1951
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1369,
+      "y": 1567
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1525,
+      "y": 1181
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1743,
+      "y": 1128
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1825,
+      "y": 1246
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 1982,
+      "y": 1190
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 2787,
+      "y": 3398
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 3044,
+      "y": 2940
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 3429,
+      "y": 1612
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 4046,
+      "y": 2159
+  },
+  {
+      "category": "stone",
+      "name": "Stone",
+      "x": 906,
+      "y": 2263
+  },
+  {
+      "category": "teleport_pad",
+      "name": "Teleport pad",
+      "x": 1153,
+      "y": 1668
+  },
+  {
+      "category": "teleport_pad",
+      "name": "Teleport pad",
+      "x": 1169,
+      "y": 1624
+  },
+  {
+      "category": "teleport_pad",
+      "name": "Teleport pad",
+      "x": 1169,
+      "y": 1624
+  },
+  {
+      "category": "teleport_pad",
+      "name": "Teleport pad",
+      "x": 1626,
+      "y": 1245
+  },
+  {
+      "category": "teleport_pad",
+      "name": "Teleport pad",
+      "x": 1626,
+      "y": 1245
+  },
+  {
+      "category": "teleport_pad",
+      "name": "Teleport pad",
+      "x": 1684,
+      "y": 1274
+  },
+  {
+      "category": "teleport_pad",
+      "name": "Teleport pad",
+      "x": 1684,
+      "y": 1274
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1074,
+      "y": 760
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1171,
+      "y": 1955
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1356,
+      "y": 511
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1413,
+      "y": 838
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1442,
+      "y": 1085
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1442,
+      "y": 1085
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1468,
+      "y": 1019
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1611,
+      "y": 609
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1772,
+      "y": 1227
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1772,
+      "y": 1227
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 365,
+      "y": 1619
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 499,
+      "y": 1830
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 510,
+      "y": 1622
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 554,
+      "y": 1990
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 620,
+      "y": 1403
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 718,
+      "y": 1339
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 718,
+      "y": 1339
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 729,
+      "y": 1720
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 865,
+      "y": 1753
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 891,
+      "y": 1627
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1238,
+      "y": 2031
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1296,
+      "y": 1165
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1590,
+      "y": 1203
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1654,
+      "y": 486
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 1675,
+      "y": 1290
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 454,
+      "y": 1862
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 587,
+      "y": 1441
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 603,
+      "y": 1517
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 770,
+      "y": 1756
+  },
+  {
+      "category": "wood",
+      "name": "Wood",
+      "x": 964,
+      "y": 1895
+  }
 ]

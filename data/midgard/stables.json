@@ -1514,8 +1514,14 @@
     {
         "category": "spawnpoint",
         "name": "Spawn point",
-        "x": 797,
-        "y": 1577
+        "x": 808,
+        "y": 1542
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawn point",
+        "x": 1872,
+        "y": 1186
     },
     {
         "category": "spawnpoint",
@@ -1630,12 +1636,6 @@
         "name": "Stone",
         "x": 1680,
         "y": 1612
-    },
-    {
-        "category": "stone",
-        "name": "Stone",
-        "x": 1695,
-        "y": 902
     },
     {
         "category": "stone",

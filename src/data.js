@@ -29,7 +29,7 @@ export const markerLayers = {
     sigil: L.layerGroup(),
     ratatoskr_stash: L.layerGroup(),
     region: L.layerGroup(),
-  },
+      },
   helheim: {
     wood: L.layerGroup(),
     stone: L.layerGroup(),
