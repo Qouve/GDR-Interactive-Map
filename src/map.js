@@ -1,4 +1,4 @@
-import { GameState } from "./state.js";
+import { GameState, saveLastLoadedMap } from "./state.js";
 import { mapBounds } from "./data.js";
 import { loadMarkers } from "./markers.js";
 import { buildFilters } from "./ui.js";
@@ -12,6 +12,7 @@ export const map = L.map('map', {
 });
 
 export function loadMap(name) {
+  saveLastLoadedMap(name);
   GameState.currentMap = name;
   map.fitBounds(mapBounds[name]);
   buildFilters(map, name);

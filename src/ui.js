@@ -1,4 +1,4 @@
-import { saveFilters, loadFilters, GameState } from "./state.js";
+import { saveFilters, loadFilters, GameState, saveSetting } from "./state.js";
 import { markerLayers, uiCategoryOrder, uiLayers, uiCategories } from "./data.js";
 import { loadMarkers } from "./markers.js";
 
@@ -7,7 +7,7 @@ export function isCategoryActive(category) {
 }
 
 export function isUnstableActive() {
-  return document.querySelector('#map-type')?.checked;
+  return document.getElementById('map-type')?.checked;
 }
 
 function applyFilters(map, mapName) {
@@ -25,16 +25,16 @@ function applyFilters(map, mapName) {
 }
 
 export function initSettings(map) {
-  const mapType = document.querySelector('#map-type');
+  const mapType = document.getElementById('map-type');
 
   mapType.addEventListener('change', (e) => {
     loadMarkers(map, GameState.currentMap);
-    saveFilters(GameState.currentMap);
+    saveSetting("isUnstableActive", mapType.checked);
   });
 }
 
 export function initFilters(map, mapName) {
-  const sidebar = document.querySelector('#filters');
+  const sidebar = document.getElementById('filters');
 
   sidebar.addEventListener('change', (e) => {
     if (e.target.matches('input')) {
