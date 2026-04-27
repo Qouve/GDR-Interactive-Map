@@ -14,7 +14,7 @@ export const map = L.map('map', {
 export function loadMap(name) {
   GameState.currentMap = name;
   map.fitBounds(mapBounds[name]);
-  buildFilters(name);
+  buildFilters(map, name);
   loadMarkers(map, name);
 }
 

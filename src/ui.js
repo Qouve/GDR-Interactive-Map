@@ -1,12 +1,17 @@
-import { GameState, saveFilters, loadFilters } from "./state.js";
+import { saveFilters, loadFilters, GameState } from "./state.js";
 import { markerLayers, uiCategoryOrder, uiLayers, uiCategories } from "./data.js";
+import { loadMarkers } from "./markers.js";
 
 export function isCategoryActive(category) {
   return document.querySelector(`input[value="${category}"]`)?.checked;
 }
 
-function applyFilters(map) {
-  Object.entries(markerLayers[GameState.currentMap]).forEach(([cat, layer]) => {
+export function isUnstableActive() {
+  return document.querySelector('#map-type')?.checked;
+}
+
+function applyFilters(map, mapName) {
+  Object.entries(markerLayers[mapName]).forEach(([cat, layer]) => {
     if (isCategoryActive(cat)) {
       if (!map.hasLayer(layer)) {
         map.addLayer(layer);
@@ -19,13 +24,22 @@ function applyFilters(map) {
   });
 }
 
-export function initFilters(map) {
-  const sidebar = document.querySelector('#sidebar');
+export function initSettings(map) {
+  const mapType = document.querySelector('#map-type');
+
+  mapType.addEventListener('change', (e) => {
+    loadMarkers(map, GameState.currentMap);
+    saveFilters(GameState.currentMap);
+  });
+}
+
+export function initFilters(map, mapName) {
+  const sidebar = document.querySelector('#filters');
 
   sidebar.addEventListener('change', (e) => {
     if (e.target.matches('input')) {
-      applyFilters(map, GameState.currentMap);
-      saveFilters(GameState.currentMap);
+      applyFilters(map, mapName);
+      saveFilters(mapName);
     }
   });
 }
@@ -70,13 +84,13 @@ function createSection(headerLabel) {
   return sectionDiv;
 }
 
-export function buildFilters(map) {
+export function buildFilters(map, mapName) {
 
   const container = document.getElementById("filters");
   container.innerHTML = "";
 
 
-  const uiDatas = Object.keys(markerLayers[map]).map(cat => ({ cat: cat, data: uiLayers[cat] || undefined }));
+  const uiDatas = Object.keys(markerLayers[mapName]).map(cat => ({ cat: cat, data: uiLayers[cat] || undefined }));
   const buckets = [];
   uiDatas.forEach((item) => {
     const category = item.data?.category || uiCategories.unknown;
@@ -93,7 +107,7 @@ export function buildFilters(map) {
     items: buckets[category] || [],
   }));
 
-  const saved = loadFilters(GameState.currentMap);
+  const saved = loadFilters(mapName);
 
   sortedBuckets.forEach(bucket => {
     if (!bucket.items || bucket.items.length === 0) {
@@ -118,5 +132,5 @@ export function buildFilters(map) {
     container.appendChild(sectionDiv);
   });
 
-  initFilters(map);
+  initFilters(map, mapName);
 }

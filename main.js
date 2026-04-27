@@ -1,6 +1,7 @@
 import { map, loadMap } from "./src/map.js";
-import { initFilters } from "./src/ui.js";
+import { initFilters, initSettings } from "./src/ui.js";
 import { maps, layerMaps } from "./src/data.js";
+import { GameState } from "./src/state.js";
 
 // init
 maps.midgard.addTo(map);
@@ -12,4 +13,5 @@ map.on('baselayerchange', e => {
   loadMap(e.name.toLowerCase());
 });
 
-initFilters(map);
+initFilters(map, GameState.currentMap);
+initSettings(map);
