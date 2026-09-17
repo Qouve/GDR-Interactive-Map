@@ -1,5 +1,23 @@
+/**
+ * @typedef {Object} Vector2
+ * @property {number} x
+ * @property {number} y
+ */
+
+/**
+ * @typedef {Object} MapData
+ * @property {string} image
+ * @property {Vector2} center
+ * @property {Vector2} captureSize
+ * @property {Vector2} textureSize
+ * @property {number} rotation
+ * @property {string} orientation
+ */
+
 export const GameState = {
-  currentMap: "helheim"
+  currentMap: "helheim",
+  /** @type {MapData | null} */
+  mapData: null,
 };
 
 export function saveFilters(map) {

@@ -1,0 +1,17 @@
+{
+  "image": "maps/asgard.png",
+  "center": {
+    "x": -50216.11,
+    "y": -41255.375
+  },
+  "captureSize":  {
+    "x": 60000,
+    "y": 60000
+  },
+  "textureSize": {
+    "x": 4096,
+    "y": 4096
+  },
+  "rotation": 135,
+  "orientation": "swap"
+}

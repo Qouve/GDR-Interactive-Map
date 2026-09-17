@@ -1,11 +1,13 @@
 export const mapBounds = {
   midgard: [[0, 0], [4096, 4096]],
-  helheim: [[0, 0], [5120, 5120]]
+  helheim: [[0, 0], [5120, 5120]],
+  asgard: [[0, 0], [4096, 4096]]
 };
 
 export const maps = {
   midgard: L.imageOverlay('maps/midgard.png', mapBounds.midgard),
-  helheim: L.imageOverlay('maps/helheim.png', mapBounds.helheim)
+  helheim: L.imageOverlay('maps/helheim.png', mapBounds.helheim),
+  asgard: L.imageOverlay('maps/asgard.png', mapBounds.asgard),
 };
 
 export const markerLayers = {
@@ -29,6 +31,7 @@ export const markerLayers = {
     sigil: L.layerGroup(),
     ratatoskr_stash: L.layerGroup(),
     region: L.layerGroup(),
+    unknown: L.layerGroup(),
   },
   helheim: {
     wood: L.layerGroup(),
@@ -51,7 +54,29 @@ export const markerLayers = {
     sigil: L.layerGroup(),
     torkel: L.layerGroup(),
     region: L.layerGroup(),
-  }
+  },
+  asgard: {
+    wood: L.layerGroup(),
+    stone: L.layerGroup(),
+    bone: L.layerGroup(),
+    bifrost: L.layerGroup(),
+    moss: L.layerGroup(),
+    mushroom: L.layerGroup(),
+    iron_ore: L.layerGroup(),
+    altar: L.layerGroup(),
+    chest: L.layerGroup(),
+    rack_armor: L.layerGroup(),
+    rack_weapon: L.layerGroup(),
+    teleport_pad: L.layerGroup(),
+    boss: L.layerGroup(),
+    spawnpoint: L.layerGroup(),
+    dungeon: L.layerGroup(),
+    obelisk: L.layerGroup(),
+    sigil: L.layerGroup(),
+    ratatoskr_stash: L.layerGroup(),
+    region: L.layerGroup(),
+    unknown: L.layerGroup(),
+  },
 };
 
 export const uiCategories = {
@@ -154,10 +179,15 @@ export const uiLayers = {
   region: {
     name: 'Regions',
     category: uiCategories.misc,
+  },
+  unknown: {
+    name: 'Unknown',
+    category: uiCategories.unknown,
   }
 }
 
 export const layerMaps = {
   "Midgard": maps.midgard,
-  "Helheim": maps.helheim
+  "Helheim": maps.helheim,
+  "Asgard": maps.asgard,
 };

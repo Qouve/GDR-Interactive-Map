@@ -1,0 +1,50 @@
+[
+    {
+        "category": "dungeon",
+        "name": "Actor'LVL_Logic_Asgard_Interact_DungeonDoor:PersistentLevel.Actor_0'",
+        "x": -81860.0,
+        "y": -84760.0
+    },
+    {
+        "category": "dungeon",
+        "name": "Actor'LVL_Logic_Asgard_Interact_DungeonDoor:PersistentLevel.Actor_1'",
+        "x": -52190.0,
+        "y": -43350.0
+    },
+    {
+        "category": "dungeon",
+        "name": "Actor'LVL_Logic_Asgard_Interact_DungeonDoor:PersistentLevel.Actor_2'",
+        "x": -78700.0,
+        "y": -74480.0
+    },
+    {
+        "category": "dungeon",
+        "name": "Actor'LVL_Logic_Asgard_Interact_DungeonDoor:PersistentLevel.Actor_3'",
+        "x": -55110.0,
+        "y": -48620.0
+    },
+    {
+        "category": "dungeon",
+        "name": "Actor'LVL_Logic_Asgard_Interact_DungeonDoor:PersistentLevel.Actor_4'",
+        "x": -47590.0,
+        "y": -58740.0
+    },
+    {
+        "category": "dungeon",
+        "name": "Actor'LVL_Logic_Asgard_Interact_DungeonDoor:PersistentLevel.Actor_5'",
+        "x": -67680.0,
+        "y": -73200.0
+    },
+    {
+        "category": "dungeon",
+        "name": "Actor'LVL_Logic_Asgard_Interact_DungeonDoor:PersistentLevel.Actor_6'",
+        "x": -48970.0,
+        "y": -51000.0
+    },
+    {
+        "category": "dungeon",
+        "name": "Actor'LVL_Logic_Asgard_Interact_DungeonDoor:PersistentLevel.Actor_7'",
+        "x": -69730.0,
+        "y": -83610.0
+    }
+]

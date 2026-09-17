@@ -1,0 +1,146 @@
+[
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerEncounter_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerEncounter_C_0'",
+        "x": 277.98322,
+        "y": 177.97041
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerEncounter_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerEncounter_C_1'",
+        "x": 127.99897,
+        "y": 175.79726
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerEncounter_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerEncounter_C_2'",
+        "x": 127.99897,
+        "y": 175.79726
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerEncounter_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerEncounter_C_3'",
+        "x": 277.98322,
+        "y": 177.97041
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerEncounter_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerEncounter_C_4'",
+        "x": 277.98322,
+        "y": 177.97041
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerEncounter_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerEncounter_C_5'",
+        "x": 127.99897,
+        "y": 175.79726
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerRoot_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerRoot_C_0'",
+        "x": 319.46756,
+        "y": -273.9244
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerRoot_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerRoot_C_1'",
+        "x": 319.46756,
+        "y": -273.9244
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerRoot_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerRoot_C_2'",
+        "x": 319.46756,
+        "y": -273.9244
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerRoot_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerRoot_C_3'",
+        "x": 319.46756,
+        "y": -273.9244
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerRoot_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerRoot_C_4'",
+        "x": 319.46756,
+        "y": -273.9244
+    },
+    {
+        "category": "unknown",
+        "name": "BP_AISpawnerRoot_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_AISpawnerRoot_C_5'",
+        "x": 319.46756,
+        "y": -273.9244
+    },
+    {
+        "category": "obelisk",
+        "name": "Obelisk combat",
+        "x": -61900.0,
+        "y": -30450.0
+    },
+    {
+        "category": "obelisk",
+        "name": "Obelisk combat",
+        "x": -45000.0,
+        "y": -33450.0
+    },
+    {
+        "category": "obelisk",
+        "name": "Obelisk combat",
+        "x": -41740.0,
+        "y": -41370.0
+    },
+    {
+        "category": "obelisk",
+        "name": "Obelisk combat",
+        "x": -57380.0,
+        "y": -43530.0
+    },
+    {
+        "category": "obelisk",
+        "name": "Obelisk combat",
+        "x": -55950.0,
+        "y": -55520.0
+    },
+    {
+        "category": "obelisk",
+        "name": "Obelisk combat",
+        "x": -38710.0,
+        "y": -53880.0
+    },
+    {
+        "category": "unknown",
+        "name": "BP_SpawnPoint_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_SpawnPoint_C_0'",
+        "x": 50.0,
+        "y": 50.0
+    },
+    {
+        "category": "unknown",
+        "name": "BP_SpawnPoint_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_SpawnPoint_C_1'",
+        "x": -1.2621775e-29,
+        "y": -7.275958e-12
+    },
+    {
+        "category": "unknown",
+        "name": "BP_SpawnPoint_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_SpawnPoint_C_2'",
+        "x": 0.0,
+        "y": 50.0
+    },
+    {
+        "category": "unknown",
+        "name": "BP_SpawnPoint_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_SpawnPoint_C_3'",
+        "x": -150.0,
+        "y": 150.0
+    },
+    {
+        "category": "unknown",
+        "name": "BP_SpawnPoint_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_SpawnPoint_C_4'",
+        "x": -280.0,
+        "y": 50.0
+    },
+    {
+        "category": "unknown",
+        "name": "BP_SpawnPoint_C'LVL_Logic_Asgard_Interact_Obelisk:PersistentLevel.BP_SpawnPoint_C_5'",
+        "x": 0.0,
+        "y": 50.0
+    }
+]
