@@ -34,5 +34,17 @@
     "name": "Underforest Tenders' Vault",
     "x": -26350,
     "y": -51000
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Forgotten Sanctuary",
+    "x": -51483.21,
+    "y": -21946.56
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Impassable Door (opens when boss is defeated)",
+    "x": -44983.51,
+    "y": -16609.19
   }
 ]

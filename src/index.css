@@ -1033,8 +1033,10 @@ button {
 }
 
 .leaflet-image-layer {
+  backface-visibility: hidden;
   image-rendering: auto;
   filter: saturate(0.82) contrast(1.04) brightness(0.89);
+  will-change: transform;
 }
 
 .leaflet-control-rotate {
