@@ -1,0 +1,38 @@
+[
+  {
+    "category": "dungeon_entry",
+    "name": "The Old Root",
+    "x": -43250,
+    "y": -47650
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -56400,
+    "y": -14500
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -54050,
+    "y": -56900
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "The Flesh Cleft",
+    "x": -27000,
+    "y": -32050
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -26240,
+    "y": -54140
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Underforest Tenders' Vault",
+    "x": -26350,
+    "y": -51000
+  }
+]

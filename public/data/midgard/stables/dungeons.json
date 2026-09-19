@@ -1,0 +1,122 @@
+[
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -19874.852,
+    "y": -71767.016
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Smuggler's Sea Cave",
+    "x": -31178.635,
+    "y": -34711.117
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Lair of the Wolfjarl",
+    "x": -54770,
+    "y": -36112
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -44421.19,
+    "y": -54186.516
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -26782,
+    "y": -72649
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Serpent's Tomb",
+    "x": -49911.11,
+    "y": -35958.387
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Farmstead Mine Cellar",
+    "x": -36487,
+    "y": -21010
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -63426,
+    "y": -71824
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -32291,
+    "y": -54168
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Frozen Larder",
+    "x": -43946,
+    "y": -28659
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Runelocked Grotto",
+    "x": -54012.297,
+    "y": -22214.676
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "The Dregs",
+    "x": -42450,
+    "y": -18342
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -55025.848,
+    "y": -53978.355
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Charnel Pits",
+    "x": -57369.547,
+    "y": -28077.758
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -37891.156,
+    "y": -72514.77
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -17462,
+    "y": -55653
+  },
+  {
+    "category": "dungeon_exit",
+    "name": "Dungeon Exit",
+    "x": -51312.582,
+    "y": -71770.03
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Old Mineshaft",
+    "x": -30594.318,
+    "y": -13613.694
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Loki's Cave",
+    "x": -63269.29,
+    "y": -27677.88
+  },
+  {
+    "category": "dungeon_entry",
+    "name": "Nidavellheim Mines",
+    "x": -25456.22,
+    "y": -31765.78
+  }
+]

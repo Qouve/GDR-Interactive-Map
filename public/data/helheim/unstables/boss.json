@@ -1,0 +1,32 @@
+[
+  {
+    "category": "torkel",
+    "name": "Dreadspawn / Torkel",
+    "x": -52435.5,
+    "y": -35117.57
+  },
+  {
+    "category": "seal",
+    "name": "Boss Seal/Totem",
+    "x": -56415.26,
+    "y": -42508.2
+  },
+  {
+    "category": "seal",
+    "name": "Boss Seal/Totem",
+    "x": -48207.46,
+    "y": -35054.09
+  },
+  {
+    "category": "seal",
+    "name": "Boss Seal/Totem",
+    "x": -31784.14,
+    "y": -31638.59
+  },
+  {
+    "category": "boss",
+    "name": "Boss (enterable 1 minute after all totems got destroyed)",
+    "x": -46651.6,
+    "y": -13106.15
+  }
+]

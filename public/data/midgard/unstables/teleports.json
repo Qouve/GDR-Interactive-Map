@@ -1,0 +1,26 @@
+[
+  {
+    "category": "teleport_pad",
+    "name": "Teleport pad",
+    "x": -48109.45,
+    "y": -27037.64
+  },
+  {
+    "category": "teleport_pad",
+    "name": "Teleport pad",
+    "x": -48846.285,
+    "y": -27497.988
+  },
+  {
+    "category": "teleport_pad",
+    "name": "Teleport pad",
+    "x": -36652,
+    "y": -28219
+  },
+  {
+    "category": "teleport_pad",
+    "name": "Teleport pad",
+    "x": -36106.035,
+    "y": -29367.066
+  }
+]
