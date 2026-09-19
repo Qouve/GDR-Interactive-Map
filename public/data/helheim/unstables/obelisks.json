@@ -1,0 +1,74 @@
+[
+  {
+    "category": "obelisk_combat",
+    "name": "Obelisk (Combat)",
+    "x": -37250,
+    "y": -21850
+  },
+  {
+    "category": "obelisk_combat",
+    "name": "Obelisk (Combat)",
+    "x": -31250,
+    "y": -34150
+  },
+  {
+    "category": "obelisk_combat",
+    "name": "Obelisk (Combat)",
+    "x": -40600,
+    "y": -42250
+  },
+  {
+    "category": "obelisk_combat",
+    "name": "Obelisk (Combat)",
+    "x": -32850,
+    "y": -49250
+  },
+  {
+    "category": "obelisk_free",
+    "name": "Obelisk (Free)",
+    "x": -45000,
+    "y": -22100
+  },
+  {
+    "category": "obelisk_free",
+    "name": "Obelisk (Free)",
+    "x": -44240,
+    "y": -47110
+  },
+  {
+    "category": "obelisk_free",
+    "name": "Obelisk (Free)",
+    "x": -49450,
+    "y": -27500
+  },
+  {
+    "category": "obelisk_free",
+    "name": "Obelisk (Free)",
+    "x": -20350,
+    "y": -44400
+  },
+  {
+    "category": "obelisk_locked",
+    "name": "Obelisk (Locked)",
+    "x": -55465,
+    "y": -41615
+  },
+  {
+    "category": "obelisk_locked",
+    "name": "Obelisk (Locked)",
+    "x": -31345,
+    "y": -21930
+  },
+  {
+    "category": "obelisk_locked",
+    "name": "Obelisk (Locked)",
+    "x": -26815,
+    "y": -44270
+  },
+  {
+    "category": "obelisk_locked",
+    "name": "Obelisk (Locked)",
+    "x": -21015,
+    "y": -35625
+  }
+]
