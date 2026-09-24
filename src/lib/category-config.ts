@@ -14,7 +14,7 @@ export const categoryConfig: Record<string, CategoryConfig> = {
   mushroom: { label: 'Mushrooms', group: 'Resources', icon: 'mushroom', color: '#ce8f62' },
   iron: { label: 'Iron ore', group: 'Resources', icon: 'iron_ore', color: '#849aa2' },
   iron_ore: { label: 'Iron ore', group: 'Resources', icon: 'iron_ore', color: '#849aa2' },
-  altar: { label: 'Altars', group: 'Interactions', icon: 'altar_damage', color: '#cf815f' },
+  altar: { label: 'Altars', group: 'Interactions', icon: 'altar', color: '#cf815f' },
   chest: { label: 'Chests', group: 'Interactions', icon: 'chest', color: '#d2a15c' },
   rack_armor: { label: 'Armor racks', group: 'Interactions', icon: 'rack_armor', color: '#8da7b3' },
   rack_weapon: { label: 'Weapon racks', group: 'Interactions', icon: 'rack_weapon', color: '#8da7b3' },
