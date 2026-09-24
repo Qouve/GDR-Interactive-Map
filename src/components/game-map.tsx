@@ -170,6 +170,7 @@ function MapControls({ config, onAddPin }: MapControlsProps) {
 }
 
 type GameMapProps = {
+  coloredImage: string
   config: MapConfig
   markers: MarkerData[]
   regions: RegionData[]
@@ -179,9 +180,11 @@ type GameMapProps = {
   onRemovePin: (id: string) => void
   onRenamePin: (id: string, name: string) => void
   onReady?: (map: LeafletMap) => void
+  showColoredMap: boolean
 }
 
 export function GameMap({
+  coloredImage,
   config,
   markers,
   regions,
@@ -191,6 +194,7 @@ export function GameMap({
   onRemovePin,
   onRenamePin,
   onReady,
+  showColoredMap,
 }: GameMapProps) {
   const bounds: LatLngBoundsExpression = [
     [0, 0],
@@ -217,7 +221,10 @@ export function GameMap({
       zoomDelta={0.5}
       zoomSnap={0.25}
     >
-      <ImageOverlay bounds={bounds} url={assetUrl(config.image)} />
+      <ImageOverlay bounds={bounds} url={assetUrl(config.image)} zIndex={1} />
+      {showColoredMap && (
+        <ImageOverlay bounds={bounds} url={assetUrl(coloredImage)} zIndex={2} />
+      )}
       <MapSetup config={config} />
 
       {visibleMarkers.map((marker, index) => {

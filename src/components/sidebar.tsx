@@ -18,11 +18,13 @@ type SidebarProps = {
   enabledCategories: Set<string>
   pvpMode: boolean
   savedPinCount: number
+  showColoredMap: boolean
   showPersonalPins: boolean
   open: boolean
   onClose: () => void
   onPvpModeChange: (value: boolean) => void
   onClearPersonalPins: () => void
+  onShowColoredMapChange: (value: boolean) => void
   onShowPersonalPinsChange: (value: boolean) => void
   onWorldChange: (world: World) => void
   onCategoryChange: (category: string, value: boolean) => void
@@ -36,11 +38,13 @@ export function Sidebar({
   enabledCategories,
   pvpMode,
   savedPinCount,
+  showColoredMap,
   showPersonalPins,
   open,
   onClose,
   onPvpModeChange,
   onClearPersonalPins,
+  onShowColoredMapChange,
   onShowPersonalPinsChange,
   onWorldChange,
   onCategoryChange,
@@ -148,6 +152,17 @@ export function Sidebar({
                   checked={pvpMode}
                   disabled={!selectedWorld.hasPvpData || !selectedWorld.hasStandardData}
                   onCheckedChange={onPvpModeChange}
+                />
+              </div>
+            </section>
+
+            <section className="dataset-card">
+              <div className="dataset-card-row">
+                <p className="dataset-card-title">Colored map</p>
+                <Switch
+                  aria-label="Show colored map overlay"
+                  checked={showColoredMap}
+                  onCheckedChange={onShowColoredMapChange}
                 />
               </div>
             </section>

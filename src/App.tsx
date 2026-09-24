@@ -82,6 +82,9 @@ export default function App() {
   const [showPersonalPins, setShowPersonalPins] = useState(() =>
     storedPinVisibility(selectedWorld.id),
   )
+  const [showColoredMap, setShowColoredMap] = useState(
+    () => localStorage.getItem('show-colored-map') === 'true',
+  )
 
   useEffect(() => {
     let active = true
@@ -138,6 +141,10 @@ export default function App() {
   useEffect(() => {
     localStorage.setItem(`${selectedWorld.id}-show-personal-markers`, String(showPersonalPins))
   }, [selectedWorld.id, showPersonalPins])
+
+  useEffect(() => {
+    localStorage.setItem('show-colored-map', String(showColoredMap))
+  }, [showColoredMap])
 
   useEffect(() => {
     localStorage.setItem('selected-world', selectedWorld.id)
@@ -223,11 +230,13 @@ export default function App() {
         onClose={() => setSidebarOpen(false)}
         onPvpModeChange={changeDataset}
         onClearPersonalPins={() => setSavedPins([])}
+        onShowColoredMapChange={setShowColoredMap}
         onShowPersonalPinsChange={setShowPersonalPins}
         onWorldChange={changeWorld}
         open={sidebarOpen}
         selectedWorld={selectedWorld}
         savedPinCount={savedPins.length}
+        showColoredMap={showColoredMap}
         showPersonalPins={showPersonalPins}
         pvpMode={pvpMode}
         worlds={worlds}
@@ -236,6 +245,7 @@ export default function App() {
       <section className="map-shell">
         {dataset && (
           <GameMap
+            coloredImage={`maps/${selectedWorld.id}_colored.png`}
             config={dataset.config}
             enabledCategories={enabledCategories}
             markers={dataset.markers}
@@ -244,6 +254,7 @@ export default function App() {
             onRenamePin={renamePin}
             regions={dataset.regions}
             savedPins={showPersonalPins ? savedPins : []}
+            showColoredMap={showColoredMap}
           />
         )}
 
