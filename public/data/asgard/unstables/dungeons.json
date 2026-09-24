@@ -46,5 +46,11 @@
         "name": "Dungeon 8",
         "x": -69730.0,
         "y": -83610.0
+    },
+    {
+        "category": "dungeon_entry",
+        "name": "The Eyrie",
+        "x": -58973.0,
+        "y": -55105.0
     }
 ]
