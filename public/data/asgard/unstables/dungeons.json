@@ -1,19 +1,19 @@
 [
     {
         "category": "dungeon_exit",
-        "name": "Dungeon 1",
+        "name": "Dungeon Exit",
         "x": -81860.0,
         "y": -84760.0
     },
     {
         "category": "dungeon_entry",
-        "name": "Dungeon 2",
+        "name": "Asgard Prison",
         "x": -52190.0,
         "y": -43350.0
     },
     {
         "category": "dungeon_exit",
-        "name": "Dungeon 3",
+        "name": "Dungeon Exit",
         "x": -78700.0,
         "y": -74480.0
     },
@@ -31,7 +31,7 @@
     },
     {
         "category": "dungeon_exit",
-        "name": "Dungeon 6",
+        "name": "Dungeon Exit",
         "x": -67680.0,
         "y": -73200.0
     },
@@ -43,7 +43,7 @@
     },
     {
         "category": "dungeon_exit",
-        "name": "Dungeon 8",
+        "name": "Dungeon Exit",
         "x": -69730.0,
         "y": -83610.0
     },
