@@ -1,548 +1,998 @@
 [
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -57135.82,
-    "y": -17948.574
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -52597.04,
-    "y": -16477.963
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -55383.832,
-    "y": -22253.387
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -54082.906,
-    "y": -24746.3
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -51907.445,
-    "y": -23290.068
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -54183.49,
-    "y": -27967.12
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -52536.113,
-    "y": -31753.549
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -61649.133,
-    "y": -23628.873
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -50403.363,
-    "y": -16967.576
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -59102.965,
-    "y": -15958.632
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -38155.26,
-    "y": -26819.96
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -39167.277,
-    "y": -28970.623
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -40218.516,
-    "y": -24031.283
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -47527.87,
-    "y": -27350.402
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -50759.918,
-    "y": -30571.578
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -40970.19,
-    "y": -26079.207
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -60141.637,
-    "y": -20657.863
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -30169.598,
-    "y": -14282.314
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -27878.83,
-    "y": -19171.1
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -33909.38,
-    "y": -19569.34
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -34307.414,
-    "y": -29836.584
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -31510.965,
-    "y": -25998.145
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -30454.305,
-    "y": -23986.143
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -31902.885,
-    "y": -13480.326
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -30770.48,
-    "y": -24254.223
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -60273.47,
-    "y": -27160.553
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -50488.54,
-    "y": -36102.277
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -48887.67,
-    "y": -33954.324
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -56010.81,
-    "y": -31988.328
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -36915.69,
-    "y": -23581.322
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -35634.3,
-    "y": -22839.57
-  },
-  {
-    "category": "wood",
-    "name": "Wood",
-    "x": -37424.098,
-    "y": -13859.779
-  },
-  {
-    "category": "bifrost",
-    "name": "Bifrost",
-    "x": -29590,
-    "y": -56560
-  },
-  {
-    "category": "bifrost",
-    "name": "Bifrost",
-    "x": -22714.443,
-    "y": -29154.162
-  },
-  {
-    "category": "bifrost",
-    "name": "Bifrost",
-    "x": -72580.984,
-    "y": -30035.805
-  },
-  {
-    "category": "bifrost",
-    "name": "Bifrost",
-    "x": -43626.58,
-    "y": -33386.05
-  },
-  {
-    "category": "bifrost",
-    "name": "Bifrost",
-    "x": -43542.203,
-    "y": -37145.445
-  },
-  {
-    "category": "bifrost",
-    "name": "Bifrost",
-    "x": -59223.13,
-    "y": -19444.748
-  },
-  {
-    "category": "bifrost",
-    "name": "Bifrost",
-    "x": -59474.145,
-    "y": -17557.275
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -56429.2,
-    "y": -56450.906
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -59940,
-    "y": -18921
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -34970,
-    "y": -16685
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -34457.27,
-    "y": -15545.577
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -55051.348,
-    "y": -24649.625
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -59668.492,
-    "y": -35749.383
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -71826.27,
-    "y": -25403.826
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -59110.637,
-    "y": -38287.492
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -63421,
-    "y": -34531
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -56176.133,
-    "y": -35947.766
-  },
-  {
-    "category": "bone",
-    "name": "Bone",
-    "x": -60383.008,
-    "y": -31363.543
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -18236.957,
-    "y": -30683.227
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -26183.643,
-    "y": -19194.19
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -30797,
-    "y": -32451
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -27871.006,
-    "y": -13648.157
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -35805.785,
-    "y": -36832.965
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -38430,
-    "y": -33380
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -50283,
-    "y": -25136
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -27350.61,
-    "y": -26213.848
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -52305.83,
-    "y": -27770.691
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -54198.562,
-    "y": -31311.691
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -54832.016,
-    "y": -19185.713
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -32927.902,
-    "y": -12592.476
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -49006.574,
-    "y": -17513.281
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -32917.855,
-    "y": -26466.271
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -38214.723,
-    "y": -28201.855
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -55348.64,
-    "y": -54432.836
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -29861.307,
-    "y": -71634.59
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -34216.797,
-    "y": -32899.1
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -41849.945,
-    "y": -55573.547
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -51400,
-    "y": -74551
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -70815.13,
-    "y": -26496.83
-  },
-  {
-    "category": "iron",
-    "name": "Iron",
-    "x": -54301.164,
-    "y": -29081.805
-  },
-  {
-    "category": "moss",
-    "name": "Moss",
-    "x": -25765,
-    "y": -16240
-  },
-  {
-    "category": "moss",
-    "name": "Moss",
-    "x": -56647,
-    "y": -28010
-  },
-  {
-    "category": "moss",
-    "name": "Moss",
-    "x": -33550.44,
-    "y": -36168.74
-  },
-  {
-    "category": "moss",
-    "name": "Moss",
-    "x": -57445.605,
-    "y": -15165.257
-  },
-  {
-    "category": "moss",
-    "name": "Moss",
-    "x": -62697,
-    "y": -20870
-  },
-  {
-    "category": "mushroom",
-    "name": "Mushroom",
-    "x": -30519.574,
-    "y": -15977.273
-  },
-  {
-    "category": "mushroom",
-    "name": "Mushroom",
-    "x": -50405,
-    "y": -74660
-  },
-  {
-    "category": "mushroom",
-    "name": "Mushroom",
-    "x": -33580,
-    "y": -21120
-  },
-  {
-    "category": "mushroom",
-    "name": "Mushroom",
-    "x": -39302.41,
-    "y": -16169.318
-  },
-  {
-    "category": "mushroom",
-    "name": "Mushroom",
-    "x": -35473.652,
-    "y": -29344.215
-  },
-  {
-    "category": "mushroom",
-    "name": "Mushroom",
-    "x": -15749.784,
-    "y": -74606.805
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -41010,
-    "y": -33990
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -72078.33,
-    "y": -28202.271
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -20471.785,
-    "y": -31432.94
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -17432.098,
-    "y": -31455.43
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -40465,
-    "y": -71080
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -30189.314,
-    "y": -72682.766
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -62606.793,
-    "y": -74435.01
-  },
-  {
-    "category": "stone",
-    "name": "Stone",
-    "x": -42969.69,
-    "y": -58481.625
-  }
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -52536.113,
+        "y": -31753.549
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -55975.58,
+        "y": -19591.232
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -36915.69,
+        "y": -23581.322
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -36377.387,
+        "y": -27124.012
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -35499.754,
+        "y": -26610.69
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -53635.004,
+        "y": -16617.959
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -39933.242,
+        "y": -22491.746
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -50403.363,
+        "y": -16967.576
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -54423.156,
+        "y": -17733.402
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -35634.3,
+        "y": -22839.57
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -54082.906,
+        "y": -24746.3
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -52722.168,
+        "y": -33654.42
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -27878.83,
+        "y": -19171.1
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -31902.885,
+        "y": -13480.326
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -31510.965,
+        "y": -25998.145
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -58698.74,
+        "y": -28204.969
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -60273.47,
+        "y": -27160.553
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -56010.81,
+        "y": -31988.328
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -60645.38,
+        "y": -32299.066
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -55432.906,
+        "y": -35650.523
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -30169.598,
+        "y": -14282.314
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -57135.82,
+        "y": -17948.574
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -54718.754,
+        "y": -27985.957
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -33909.38,
+        "y": -19569.34
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -61649.133,
+        "y": -23628.873
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -33799.457,
+        "y": -30973.623
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -25749.363,
+        "y": -18167.5
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -33211.348,
+        "y": -28042.465
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -62846.11,
+        "y": -22314.725
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -47527.87,
+        "y": -27350.402
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -41458.023,
+        "y": -26323.35
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -44401.453,
+        "y": -28829.326
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -48887.67,
+        "y": -33954.324
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -50118.008,
+        "y": -33804.02
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -40218.516,
+        "y": -24031.283
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -39167.277,
+        "y": -28970.623
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -38155.26,
+        "y": -26819.96
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -37159.664,
+        "y": -25954.36
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -36544.34,
+        "y": -29473.89
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -51416.88,
+        "y": -26488.684
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -34307.414,
+        "y": -29836.584
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -50759.918,
+        "y": -30571.578
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -36994.867,
+        "y": -21173.781
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -47822.23,
+        "y": -30789.77
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -55383.832,
+        "y": -22253.387
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -61132.4,
+        "y": -20473.777
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -56757.727,
+        "y": -15981.225
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -35268.543,
+        "y": -24666.422
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -55434.1,
+        "y": -23359.24
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -59102.965,
+        "y": -15958.632
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -37424.098,
+        "y": -13859.779
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -51907.445,
+        "y": -23290.068
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -46986.58,
+        "y": -31346.05
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -57963.453,
+        "y": -17117.889
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -41382.51,
+        "y": -35719.453
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -59474.145,
+        "y": -17557.275
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -59223.13,
+        "y": -19444.748
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -43542.203,
+        "y": -37145.445
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -58406.035,
+        "y": -17876.193
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -38879.297,
+        "y": -34795.492
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -40476.58,
+        "y": -29656.05
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -68744.3,
+        "y": -24676.105
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -22714.443,
+        "y": -29154.162
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -72580.984,
+        "y": -30035.805
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -20195.0,
+        "y": -29315.0
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -72800.39,
+        "y": -26718.348
+    },
+    {
+        "category": "bifrost",
+        "name": "Bifrost",
+        "x": -72554.25,
+        "y": -25324.842
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -52945.0,
+        "y": -35596.0
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -34970.0,
+        "y": -16685.0
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -56535.0,
+        "y": -34375.0
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -54047.438,
+        "y": -54870.445
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -34457.27,
+        "y": -15545.577
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -71826.27,
+        "y": -25403.826
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -53376.668,
+        "y": -55280.59
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -61853.87,
+        "y": -29899.24
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -72751.0,
+        "y": -29219.0
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -28582.145,
+        "y": -74841.98
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -63421.0,
+        "y": -34531.0
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -63156.0,
+        "y": -37272.0
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -56429.2,
+        "y": -56450.906
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -60383.008,
+        "y": -31363.543
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -68006.0,
+        "y": -24762.0
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -59162.812,
+        "y": -35552.16
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -41032.0,
+        "y": -71644.0
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -59110.637,
+        "y": -38287.492
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -55051.348,
+        "y": -24649.625
+    },
+    {
+        "category": "bone",
+        "name": "Bone",
+        "x": -50967.332,
+        "y": -35941.11
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -50283.0,
+        "y": -25136.0
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -38214.723,
+        "y": -28201.855
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -17790.0,
+        "y": -74746.0
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -54832.016,
+        "y": -19185.713
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -31953.555,
+        "y": -54920.477
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -19157.11,
+        "y": -70050.41
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -51667.0,
+        "y": -30449.0
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -52305.83,
+        "y": -27770.691
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -35147.184,
+        "y": -33209.598
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -55348.64,
+        "y": -54432.836
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -25971.191,
+        "y": -15573.716
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -30472.986,
+        "y": -28764.268
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -51400.0,
+        "y": -74551.0
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -29861.307,
+        "y": -71634.59
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -68345.0,
+        "y": -29583.0
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -17922.607,
+        "y": -32889.33
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -18236.957,
+        "y": -30683.227
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -18625.143,
+        "y": -57928.703
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -44150.73,
+        "y": -57877.234
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -38966.957,
+        "y": -71919.88
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -63848.16,
+        "y": -73407.76
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -70815.13,
+        "y": -26496.83
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -39230.0,
+        "y": -73281.0
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -32927.902,
+        "y": -12592.476
+    },
+    {
+        "category": "iron",
+        "name": "Iron ore",
+        "x": -32083.463,
+        "y": -37746.445
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -28074.912,
+        "y": -15346.821
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -33863.41,
+        "y": -14306.0205
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -31594.02,
+        "y": -35375.047
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -30797.0,
+        "y": -32451.0
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -49006.574,
+        "y": -17513.281
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -49763.875,
+        "y": -27464.32
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -54301.164,
+        "y": -29081.805
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -26188.297,
+        "y": -19635.732
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -32917.855,
+        "y": -26466.271
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -57501.973,
+        "y": -30022.396
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -30733.062,
+        "y": -23922.834
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -33489.953,
+        "y": -19020.953
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -61594.0,
+        "y": -28341.977
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -56647.0,
+        "y": -28010.0
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -60225.76,
+        "y": -25880.55
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -28663.967,
+        "y": -16731.951
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -25202.201,
+        "y": -30922.127
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -57445.605,
+        "y": -15165.257
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -57425.0,
+        "y": -32265.0
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -60708.445,
+        "y": -23480.81
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -33115.0,
+        "y": -23120.0
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -33065.0,
+        "y": -14890.0
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -28675.0,
+        "y": -20760.0
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -25765.0,
+        "y": -16240.0
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -33550.44,
+        "y": -36168.74
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -33726.547,
+        "y": -29200.822
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -39302.41,
+        "y": -16169.318
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -54763.844,
+        "y": -15985.319
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -33740.0,
+        "y": -17359.0
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -62913.297,
+        "y": -21542.418
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -58403.844,
+        "y": -15525.319
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -53376.0,
+        "y": -35600.0
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -59283.844,
+        "y": -22845.32
+    },
+    {
+        "category": "moss",
+        "name": "Moss",
+        "x": -30519.574,
+        "y": -15977.273
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -58208.34,
+        "y": -25502.12
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -33580.0,
+        "y": -21120.0
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -50405.0,
+        "y": -74660.0
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -33952.316,
+        "y": -38155.07
+    },
+    {
+        "category": "wood",
+        "name": "Wood",
+        "x": -51033.844,
+        "y": -15845.319
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -55274.0,
+        "y": -30721.0
+    },
+    {
+        "category": "mushroom",
+        "name": "Mushroom",
+        "x": -15749.784,
+        "y": -74606.805
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -35473.652,
+        "y": -29344.215
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -30815.422,
+        "y": -57568.203
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -15688.682,
+        "y": -74234.07
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -62606.793,
+        "y": -74435.01
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -69428.7,
+        "y": -28291.867
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -20471.785,
+        "y": -31432.94
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -50152.668,
+        "y": -74009.36
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -42969.69,
+        "y": -58481.625
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -40465.0,
+        "y": -71080.0
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -17432.098,
+        "y": -31455.43
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -72078.33,
+        "y": -28202.271
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -30189.314,
+        "y": -72682.766
+    },
+    {
+        "category": "stone",
+        "name": "Stone",
+        "x": -16663.959,
+        "y": -57921.188
+    }
 ]

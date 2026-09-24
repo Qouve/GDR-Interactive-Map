@@ -1,73 +1,217 @@
 [
-       {
+    {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
-        "x": -59300.06,
-        "y": -24587.855
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_0'",
+        "x": -59245.117,
+        "y": -24705.676
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_1'",
         "x": -51966.766,
         "y": -20965.834
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_10'",
         "x": -32332.309,
         "y": -30619.07
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_11'",
         "x": -26926.086,
         "y": -22154.287
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
-        "x": -54829.332,
-        "y": -33352.258
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_12'",
+        "x": -36413.453,
+        "y": -36576.09
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_13'",
+        "x": -36780.156,
+        "y": -36457.125
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_14'",
+        "x": -32148.012,
+        "y": -30602.945
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_15'",
+        "x": -32398.678,
+        "y": -30434.15
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_16'",
+        "x": -27097.242,
+        "y": -22274.828
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_17'",
+        "x": -27072.402,
+        "y": -21990.912
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_18'",
+        "x": -26777.34,
+        "y": -13473.758
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_19'",
+        "x": -26522.34,
+        "y": -13338.758
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_2'",
+        "x": -54750.547,
+        "y": -33338.363
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_20'",
+        "x": -40339.06,
+        "y": -13493.847
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_21'",
+        "x": -40043.617,
+        "y": -13441.752
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_22'",
+        "x": -51117.36,
+        "y": -12925.418
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_23'",
+        "x": -51635.55,
+        "y": -13067.561
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_24'",
+        "x": -52064.516,
+        "y": -21208.928
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_25'",
+        "x": -52189.35,
+        "y": -20865.94
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_26'",
+        "x": -59041.2,
+        "y": -24610.588
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_27'",
+        "x": -59201.38,
+        "y": -24905.955
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_28'",
+        "x": -54790.49,
+        "y": -33111.86
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_29'",
+        "x": -54534.188,
+        "y": -33356.062
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_3'",
         "x": -49059.324,
         "y": -30521.271
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
-        "x": -51378.336,
-        "y": -12971.435
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_30'",
+        "x": -46826.754,
+        "y": -36897.453
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_31'",
+        "x": -46488.465,
+        "y": -37020.582
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_32'",
+        "x": -48957.9,
+        "y": -30303.758
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_33'",
+        "x": -49273.555,
+        "y": -30294.488
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_34'",
+        "x": -41947.31,
+        "y": -28358.72
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_35'",
+        "x": -42165.652,
+        "y": -28504.922
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_4'",
+        "x": -51391.36,
+        "y": -12897.574
+    },
+    {
+        "category": "spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_5'",
         "x": -40215.65,
         "y": -13329.927
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_6'",
         "x": -46766.176,
         "y": -37169.586
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_7'",
         "x": -42156.19,
         "y": -28212.457
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_8'",
         "x": -26777.34,
-        "y": -13563.758
+        "y": -13193.758
     },
     {
         "category": "spawnpoint",
-        "name": "Spawnpoint",
+        "name": "PanPlayerStart'LVL_Norse_Midgard:PersistentLevel.PanPlayerStart_9'",
         "x": -36663.484,
         "y": -36659.207
     }
