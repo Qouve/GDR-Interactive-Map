@@ -54,6 +54,48 @@
         "y": -73268.53
     },
     {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -62848.53,
+        "y": -28105.309
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -56532.906,
+        "y": -32399.756
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -33950.0,
+        "y": -17385.0
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -60204.61,
+        "y": -18642.287
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -55116.773,
+        "y": -26656.943
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -63622.316,
+        "y": -36219.008
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -34166.652,
+        "y": -38080.18
+    },
+    {
         "category": "rack_weapon",
         "name": "Rack (Weapon)",
         "x": -51696.59,

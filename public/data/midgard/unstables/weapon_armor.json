@@ -1,494 +1,182 @@
 [
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -28225.568,
-    "y": -17657.121
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -31428.38,
-    "y": -16235.296
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -46570.996,
-    "y": -18186.695
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -29298.602,
-    "y": -32576.775
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -27728.83,
-    "y": -38523.42
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -26572.707,
-    "y": -37377.047
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -37190.754,
-    "y": -32305.086
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -17831.816,
-    "y": -58583.543
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -17830.178,
-    "y": -57073.574
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -36875.38,
-    "y": -15791.778
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -23025.459,
-    "y": -29948.873
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -20361.842,
-    "y": -29880.416
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -18464.453,
-    "y": -34532.52
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -21687.873,
-    "y": -34527.168
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -54172.08,
-    "y": -56604
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -42274.12,
-    "y": -55628.297
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -19132.496,
-    "y": -73268.53
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -37574.48,
-    "y": -21814.203
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -44890.016,
-    "y": -13376.429
-  },
-  {
-    "category": "rack_armor",
-    "name": "Rack (Armor)",
-    "x": -46690.426,
-    "y": -20598.643
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -62848.53,
-    "y": -28105.309
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -35435.387,
-    "y": -18988.715
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -43177.773,
-    "y": -39465.934
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -56532.906,
-    "y": -32399.756
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -73204.336,
-    "y": -26171.266
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -69022.18,
-    "y": -29164.443
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -33950,
-    "y": -17385
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -35911.758,
-    "y": -26080.162
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -49312.715,
-    "y": -25339.61
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -68648.24,
-    "y": -26296.775
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -60204.61,
-    "y": -18642.287
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -55116.773,
-    "y": -26656.943
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -63622.316,
-    "y": -36219.008
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -34166.652,
-    "y": -38080.18
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -41265.832,
-    "y": -72121.945
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -29842.852,
-    "y": -74524.56
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -41258.902,
-    "y": -57978.75
-  },
-  {
-    "category": "sigil",
-    "name": "Sigil",
-    "x": -40637.75,
-    "y": -23013.896
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -51696.59,
-    "y": -74167.81
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -61693.613,
-    "y": -73814.95
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -54430.453,
-    "y": -54941.062
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -54369.523,
-    "y": -56647.395
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -22961.441,
-    "y": -30124.982
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -23983.064,
-    "y": -31620.748
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -22082.496,
-    "y": -33858.984
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -19874.861,
-    "y": -32633.213
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -19991.873,
-    "y": -28991.744
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -69295,
-    "y": -27494.074
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -30851.639,
-    "y": -18146.945
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -36483.22,
-    "y": -15441.389
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -37740.35,
-    "y": -21283.832
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -28492.117,
-    "y": -37473.3
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -30412.217,
-    "y": -38839.54
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -26031.559,
-    "y": -31902.918
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -27076.727,
-    "y": -34364.016
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -45900.707,
-    "y": -14885.793
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -42740.652,
-    "y": -14348.798
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -47715.508,
-    "y": -21481.982
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -45442.633,
-    "y": -20687.623
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -45669.43,
-    "y": -19647.184
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -43028.848,
-    "y": -19382.31
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -44659.367,
-    "y": -15398.341
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -42716.727,
-    "y": -24614.713
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -45750.668,
-    "y": -24088.621
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -47944.89,
-    "y": -24462.83
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -18176.582,
-    "y": -57281.78
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -62475.81,
-    "y": -30346.783
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -53117.02,
-    "y": -32790.59
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -60459.543,
-    "y": -29573.73
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -27140.295,
-    "y": -38034.996
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -26638.244,
-    "y": -29213.803
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -25905.826,
-    "y": -25944.318
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -34878.24,
-    "y": -31604.656
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -26265.89,
-    "y": -30227.676
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -25715.842,
-    "y": -33485.12
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -29609.86,
-    "y": -31460.756
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -25005.572,
-    "y": -36952.945
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -29356.355,
-    "y": -28821.555
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -29756.07,
-    "y": -57457.715
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -27178.586,
-    "y": -28038.816
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -16254.589,
-    "y": -75448.19
-  },
-  {
-    "category": "rack_weapon",
-    "name": "Rack (Weapon)",
-    "x": -18701.31,
-    "y": -73889.2
-  }
+    {
+        "category": "rack_armor",
+        "name": "Rack (Armor)",
+        "x": -17831.816,
+        "y": -58583.543
+    },
+    {
+        "category": "rack_armor",
+        "name": "Rack (Armor)",
+        "x": -17830.178,
+        "y": -57073.574
+    },
+    {
+        "category": "rack_armor",
+        "name": "Rack (Armor)",
+        "x": -23025.459,
+        "y": -29948.873
+    },
+    {
+        "category": "rack_armor",
+        "name": "Rack (Armor)",
+        "x": -20361.842,
+        "y": -29880.416
+    },
+    {
+        "category": "rack_armor",
+        "name": "Rack (Armor)",
+        "x": -18464.453,
+        "y": -34532.52
+    },
+    {
+        "category": "rack_armor",
+        "name": "Rack (Armor)",
+        "x": -21687.873,
+        "y": -34527.168
+    },
+    {
+        "category": "rack_armor",
+        "name": "Rack (Armor)",
+        "x": -54172.08,
+        "y": -56604.0
+    },
+    {
+        "category": "rack_armor",
+        "name": "Rack (Armor)",
+        "x": -42274.12,
+        "y": -55628.297
+    },
+    {
+        "category": "rack_armor",
+        "name": "Rack (Armor)",
+        "x": -19132.496,
+        "y": -73268.53
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -62848.53,
+        "y": -28105.309
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -56532.906,
+        "y": -32399.756
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -33950.0,
+        "y": -17385.0
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -60204.61,
+        "y": -18642.287
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -55116.773,
+        "y": -26656.943
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -63622.316,
+        "y": -36219.008
+    },
+    {
+        "category": "sigil",
+        "name": "Sigil",
+        "x": -34166.652,
+        "y": -38080.18
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -51696.59,
+        "y": -74167.81
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -61693.613,
+        "y": -73814.95
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -54430.453,
+        "y": -54941.062
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -54369.523,
+        "y": -56647.395
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -22961.441,
+        "y": -30124.982
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -23983.064,
+        "y": -31620.748
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -22082.496,
+        "y": -33858.984
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -19874.861,
+        "y": -32633.213
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -19991.873,
+        "y": -28991.744
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -69295.0,
+        "y": -27494.074
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -18176.582,
+        "y": -57281.78
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -29756.07,
+        "y": -57457.715
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -16254.589,
+        "y": -75448.19
+    },
+    {
+        "category": "rack_weapon",
+        "name": "Rack (Weapon)",
+        "x": -18701.31,
+        "y": -73889.2
+    }
 ]
