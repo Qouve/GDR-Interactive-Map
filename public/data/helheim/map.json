@@ -1,16 +1,16 @@
 {
   "image": "maps/helheim.png",
   "center": {
-    "x": -38800,
-    "y": -36000
+    "x": -46800,
+    "y": -44000
   },
   "captureSize": {
-    "x": 50000,
-    "y": 50000
+    "x": 70000,
+    "y": 70000
   },
   "textureSize": {
-    "x": 5120,
-    "y": 5120
+    "x": 4096,
+    "y": 4096
   },
   "rotation": 135,
   "orientation": "swap"
