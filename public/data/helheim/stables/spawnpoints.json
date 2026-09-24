@@ -2,8 +2,20 @@
     {
         "category": "spawnpoint",
         "name": "Spawnpoint",
+        "x": -27678.496,
+        "y": -25555.066
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
         "x": -30687.006,
         "y": -48392.28
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -50183.336,
+        "y": -22609.146
     },
     {
         "category": "spawnpoint",
@@ -14,14 +26,32 @@
     {
         "category": "spawnpoint",
         "name": "Spawnpoint",
+        "x": -23528.953,
+        "y": -31543.63
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
         "x": -40688.86,
         "y": -28425.107
     },
     {
         "category": "spawnpoint",
         "name": "Spawnpoint",
+        "x": -23568.32,
+        "y": -31217.174
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
         "x": -31527.162,
         "y": -28679.787
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -31671.79,
+        "y": -28852.148
     },
     {
         "category": "spawnpoint",
@@ -38,14 +68,74 @@
     {
         "category": "spawnpoint",
         "name": "Spawnpoint",
+        "x": -31395.219,
+        "y": -28849.246
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -27982.55,
+        "y": -25243.94
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
         "x": -47730.4,
         "y": -19748.553
     },
     {
         "category": "spawnpoint",
         "name": "Spawnpoint",
-        "x": -27947.197,
-        "y": -25441.93
+        "x": -40643.14,
+        "y": -28185.922
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -40895.414,
+        "y": -28432.87
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -27929.52,
+        "y": -25459.605
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -51585.2,
+        "y": -33152.79
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -51927.28,
+        "y": -33350.29
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -23053.787,
+        "y": -41506.87
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -22793.98,
+        "y": -41656.87
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -32158.246,
+        "y": -38593.01
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -32274.918,
+        "y": -38808.68
     },
     {
         "category": "spawnpoint",
@@ -56,14 +146,68 @@
     {
         "category": "spawnpoint",
         "name": "Spawnpoint",
+        "x": -46735.625,
+        "y": -45403.71
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -46471.484,
+        "y": -45556.21
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -52749.13,
+        "y": -38306.09
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -52925.316,
+        "y": -38453.934
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -30494.182,
+        "y": -48531.004
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -30842.85,
+        "y": -48561.51
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
         "x": -46695.54,
         "y": -45594.285
     },
     {
         "category": "spawnpoint",
         "name": "Spawnpoint",
+        "x": -47693.312,
+        "y": -20012.133
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
         "x": -32398.662,
         "y": -38522.3
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -47522.785,
+        "y": -19733.662
+    },
+    {
+        "category": "spawnpoint",
+        "name": "Spawnpoint",
+        "x": -50447.62,
+        "y": -22387.385
     },
     {
         "category": "spawnpoint",

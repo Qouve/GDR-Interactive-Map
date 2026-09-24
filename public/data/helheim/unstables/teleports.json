@@ -2,8 +2,8 @@
   {
     "category": "teleport_pad",
     "name": "Teleport Pad",
-    "x": -39882,
-    "y": -46959
+    "x": -39882.0,
+    "y": -46959.0
   },
   {
     "category": "teleport_pad",
