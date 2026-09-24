@@ -2,14 +2,26 @@
     {
         "category": "chest",
         "name": "Chest",
-        "x": -68770.0,
-        "y": -59950.0
+        "x": -58420.0,
+        "y": -51490.0
     },
     {
         "category": "chest",
         "name": "Chest",
-        "x": -65680.0,
-        "y": -50300.0
+        "x": -40060.0,
+        "y": -52260.0
+    },
+    {
+        "category": "chest",
+        "name": "Chest",
+        "x": -53510.0,
+        "y": -38830.0
+    },
+    {
+        "category": "chest",
+        "name": "Chest",
+        "x": -59213.703,
+        "y": -48102.293
     },
     {
         "category": "chest",
@@ -62,12 +74,6 @@
     {
         "category": "chest",
         "name": "Chest",
-        "x": -67140.0,
-        "y": -55630.0
-    },
-    {
-        "category": "chest",
-        "name": "Chest",
         "x": -38731.24,
         "y": -56284.215
     },
@@ -80,14 +86,8 @@
     {
         "category": "chest",
         "name": "Chest",
-        "x": -49915.355,
-        "y": -49525.355
-    },
-    {
-        "category": "chest",
-        "name": "Chest",
-        "x": -73832.43,
-        "y": -76382.43
+        "x": -49914.85,
+        "y": -49526.57
     },
     {
         "category": "chest",
@@ -104,6 +104,12 @@
     {
         "category": "chest",
         "name": "Chest",
+        "x": -73832.43,
+        "y": -76382.43
+    },
+    {
+        "category": "chest",
+        "name": "Chest",
         "x": -81750.0,
         "y": -74470.0
     },
@@ -116,37 +122,31 @@
     {
         "category": "chest",
         "name": "Chest",
-        "x": -67140.0,
-        "y": -54670.0
-    },
-    {
-        "category": "chest",
-        "name": "Chest",
         "x": -70420.0,
         "y": -87590.0
     },
     {
         "category": "chest",
         "name": "Chest",
-        "x": -53510.0,
-        "y": -38830.0
+        "x": -68770.0,
+        "y": -59950.0
     },
     {
         "category": "chest",
         "name": "Chest",
-        "x": -59213.703,
-        "y": -48102.293
+        "x": -65680.0,
+        "y": -50300.0
     },
     {
         "category": "chest",
         "name": "Chest",
-        "x": -40060.0,
-        "y": -52260.0
+        "x": -67140.0,
+        "y": -55630.0
     },
     {
         "category": "chest",
         "name": "Chest",
-        "x": -58420.0,
-        "y": -51490.0
+        "x": -67140.0,
+        "y": -54670.0
     }
 ]

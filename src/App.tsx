@@ -11,7 +11,7 @@ import type { MapDataset, SavedPin, Vector2, World } from '@/types'
 const worlds: World[] = [
   { id: 'midgard', name: 'Midgard', subtitle: 'The known world', available: true, hasStandardData: true, hasPvpData: true },
   { id: 'helheim', name: 'Helheim', subtitle: 'Standard and Unstable data', available: true, hasStandardData: true, hasPvpData: true },
-  { id: 'asgard', name: 'Asgard', subtitle: 'Currently unavailable', available: false, hasStandardData: true, hasPvpData: false },
+  { id: 'asgard', name: 'Asgard', subtitle: 'Standard and Unstable data', available: true, hasStandardData: true, hasPvpData: true },
 ]
 
 function storedCategories(key: string, fallback: string[], legacyKey?: string) {

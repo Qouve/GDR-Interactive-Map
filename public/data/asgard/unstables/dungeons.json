@@ -2,55 +2,49 @@
     {
         "category": "dungeon_exit",
         "name": "Dungeon 1",
-        "x": -82144.0,
-        "y": -84734.0
+        "x": -81860.0,
+        "y": -84760.0
     },
     {
         "category": "dungeon_entry",
         "name": "Dungeon 2",
-        "x": -52419.0,
-        "y": -43602.0
+        "x": -52190.0,
+        "y": -43350.0
     },
     {
         "category": "dungeon_exit",
         "name": "Dungeon 3",
-        "x": -78281.0,
-        "y": -74472.0
+        "x": -78700.0,
+        "y": -74480.0
     },
     {
         "category": "dungeon_entry",
         "name": "Dungeon 4",
-        "x": -51690.0,
-        "y": -48819.0
+        "x": -55110.0,
+        "y": -48620.0
     },
     {
         "category": "dungeon_entry",
         "name": "Dungeon 5",
-        "x": -47478.0,
-        "y": -59166.0
+        "x": -47590.0,
+        "y": -58740.0
     },
     {
         "category": "dungeon_exit",
         "name": "Dungeon 6",
         "x": -67680.0,
-        "y": -73748.0
+        "y": -73200.0
     },
     {
         "category": "dungeon_entry",
         "name": "Dungeon 7",
-        "x": -49227.0,
-        "y": -51224.0
+        "x": -48970.0,
+        "y": -51000.0
     },
     {
         "category": "dungeon_exit",
         "name": "Dungeon 8",
-        "x": -69680.0,
-        "y": -84517.0
-    },
-    {
-        "category": "dungeon_entry",
-        "name": "Dungeon 9",
-        "x": -58973.0,
-        "y": -55105.0
+        "x": -69730.0,
+        "y": -83610.0
     }
 ]

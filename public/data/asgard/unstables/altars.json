@@ -2,49 +2,7 @@
     {
         "category": "altar",
         "name": "Altar",
-        "x": -40431.49,
-        "y": -45922.617
-    },
-    {
-        "category": "altar",
-        "name": "Altar",
-        "x": -56285.066,
-        "y": -38411.047
-    },
-    {
-        "category": "altar",
-        "name": "Altar",
-        "x": -54690.0,
-        "y": -44160.0
-    },
-    {
-        "category": "altar",
-        "name": "Altar",
-        "x": -46840.0,
-        "y": -44400.0
-    },
-    {
-        "category": "altar",
-        "name": "Altar",
-        "x": -48620.0,
-        "y": -56180.0
-    },
-    {
-        "category": "altar",
-        "name": "Altar",
-        "x": -59150.0,
-        "y": -56400.0
-    },
-    {
-        "category": "altar",
-        "name": "Altar",
-        "x": -53820.0,
-        "y": -56280.0
-    },
-    {
-        "category": "altar",
-        "name": "Altar",
-        "x": -53280.0,
+        "x": -53270.0,
         "y": -48750.0
     },
     {
@@ -52,5 +10,47 @@
         "name": "Altar",
         "x": -41250.0,
         "y": -56010.0
+    },
+    {
+        "category": "altar",
+        "name": "Altar",
+        "x": -40421.49,
+        "y": -45922.617
+    },
+    {
+        "category": "altar",
+        "name": "Altar",
+        "x": -56275.066,
+        "y": -38411.047
+    },
+    {
+        "category": "altar",
+        "name": "Altar",
+        "x": -54680.0,
+        "y": -44160.0
+    },
+    {
+        "category": "altar",
+        "name": "Altar",
+        "x": -46830.0,
+        "y": -44400.0
+    },
+    {
+        "category": "altar",
+        "name": "Altar",
+        "x": -48610.0,
+        "y": -56180.0
+    },
+    {
+        "category": "altar",
+        "name": "Altar",
+        "x": -59140.0,
+        "y": -56400.0
+    },
+    {
+        "category": "altar",
+        "name": "Altar",
+        "x": -53810.0,
+        "y": -56280.0
     }
 ]

@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Dungeon ???",
+    "x": -83841.4,
+    "y": -76059.25,
+    "category": "region"
+  },
+  {
+    "name": "Dungeon ???",
+    "x": -66838.88,
+    "y": -71738.94,
+    "category": "region"
+  },
+  {
+    "name": "Dungeon ???",
+    "x": -71472.76,
+    "y": -89124.71,
+    "category": "region"
+  },
+  {
+    "name": "Dungeon ???",
+    "x": -83771.71,
+    "y": -88950.5,
+    "category": "region"
+  },
+  {
+    "name":"Dungeon ???",
+    "x": -70034.49,
+    "y": -60007.44,
+    "category": "region"
+  }
+]
